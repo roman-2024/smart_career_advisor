@@ -1,0 +1,1001 @@
+Name,Age,Degree,skills,experience,interested Area,Hooby,subjectskilled,Backgroud,suuggestedCarrer
+Tania,33,SSC,"Machine Learning, Public Speaking, Excel",8,AI,Drawing,"Chemistry, Bangla, ICT, English",nontech,Graphic Designer
+Hasan,30,MSc,"Leadership, Public Speaking, Java, C++",10,Data Science,Traveling,"Economics, Math, Physics, ICT",nontech,Graphic Designer
+Tania,19,Diploma,"SQL, Machine Learning, Java, Python, Leadership",0,Teaching,Gaming,"Bangla, English, Physics",tech,Teacher
+Rafi,30,BSc,"Python, Public Speaking, SQL",3,Engineering,Photography,"Chemistry, English",nontech,Accountant
+Nusrat,25,BSc,"SQL, Public Speaking, Data Analysis",5,Teaching,Reading,"Chemistry, ICT, English, Physics",nontech,Data Scientist
+Sadia,27,SSC,"Public Speaking, Python",10,Engineering,Gaming,"English, ICT, Math",nontech,Web Developer
+Hasan,20,MSc,"SQL, Communication, Excel, Leadership, C++",4,Web Development,Gaming,"Economics, English",tech,Data Scientist
+Nayeem,32,BA,"Excel, Python, Communication, SQL",0,Marketing,Gaming,"Economics, Math",nontech,Mechanical Engineer
+Hasan,20,MSc,"Public Speaking, Python, C++",6,Marketing,Drawing,"Biology, Math, Economics, ICT",nontech,Graphic Designer
+Nusrat,20,BSc,"Machine Learning, Communication, C++",5,Data Science,Drawing,"English, Math, Biology",nontech,Digital Marketer
+Nayeem,25,BSc,"Python, Java, C++, Excel, SQL",8,Marketing,Writing,"Math, Bangla, ICT",nontech,Accountant
+Tania,31,SSC,"C++, Machine Learning",8,Marketing,Traveling,"Biology, ICT, Economics",tech,Web Developer
+Amina,29,BA,"Communication, Excel",9,AI,Photography,"Physics, English, Bangla",nontech,Accountant
+Karim,32,BSc,"C++, Data Analysis, Leadership, Machine Learning",10,Marketing,Traveling,"Biology, Physics",tech,Accountant
+Sadia,31,BA,"C++, SQL, Excel",4,Business,Photography,"Physics, Bangla",nontech,Graphic Designer
+Nayeem,22,Diploma,"Data Analysis, Public Speaking",1,Teaching,Gaming,"Physics, Biology, English",tech,Graphic Designer
+Karim,26,MSc,"Leadership, Java, Public Speaking",9,Business,Photography,"Bangla, ICT, English",tech,Graphic Designer
+Tania,25,BA,"C++, SQL, Data Analysis, Python, Public Speaking",9,Healthcare,Photography,"Economics, Chemistry, Biology",tech,Business Analyst
+Nayeem,23,SSC,"Communication, Java, C++, SQL, Public Speaking",2,Data Science,Photography,"ICT, Math, Chemistry, English",tech,Teacher
+Nayeem,26,Diploma,"Public Speaking, Leadership, Excel, Python, Data Analysis",7,Healthcare,Drawing,"Economics, Math, Physics, Chemistry",nontech,Graphic Designer
+Nayeem,28,BA,"Java, Communication",1,Engineering,Traveling,"Economics, Biology, Math, ICT",nontech,Nurse
+Rafi,21,MSc,"Leadership, Python",8,Healthcare,Photography,"Chemistry, Economics",nontech,Nurse
+Nayeem,19,SSC,"Communication, Java, SQL",4,Finance,Writing,"English, Math, ICT, Chemistry",nontech,Data Scientist
+Rafi,18,BSc,"Excel, Leadership",4,Marketing,Drawing,"Economics, Bangla",tech,Mechanical Engineer
+Nayeem,34,HSC,"Communication, Data Analysis, Leadership, Public Speaking, Python",3,Finance,Photography,"English, ICT, Chemistry",tech,Data Scientist
+Tania,18,MA,"Leadership, SQL, Machine Learning, Public Speaking, Communication",9,Healthcare,Music,"Math, Physics, English, ICT",nontech,Digital Marketer
+Hasan,25,Diploma,"Public Speaking, Communication, Java, Leadership, Machine Learning",10,Teaching,Photography,"Math, Economics",nontech,Data Scientist
+Nayeem,22,BA,"Machine Learning, Excel, Leadership, Java",10,Teaching,Drawing,"ICT, Chemistry, Physics",tech,Teacher
+Imran,30,MA,"Data Analysis, Excel, Python",2,Healthcare,Drawing,"Economics, Physics, Math, Biology",tech,Web Developer
+Karim,23,BSc,"Public Speaking, Java, Leadership, SQL",0,Marketing,Photography,"Biology, English, Chemistry",nontech,Business Analyst
+Rahim,30,HSC,"Communication, SQL, Java",6,Finance,Gaming,"Biology, English, Bangla, ICT",nontech,Digital Marketer
+Karim,26,MA,"Data Analysis, Python, Communication, C++",4,Healthcare,Reading,"ICT, Bangla, Biology",nontech,Graphic Designer
+Nayeem,34,MA,"Data Analysis, Java, Communication",8,Web Development,Music,"Biology, Math",nontech,Nurse
+Rafi,28,HSC,"C++, Data Analysis, Communication, Excel, Public Speaking",4,Healthcare,Traveling,"Biology, Bangla, Math, English",tech,Graphic Designer
+Imran,21,MSc,"Communication, Java",4,Engineering,Drawing,"Chemistry, English",tech,Data Scientist
+Imran,34,BA,"Communication, Public Speaking, Python, Excel",10,AI,Photography,"Bangla, English, Economics, ICT",nontech,Mechanical Engineer
+Imran,24,HSC,"Communication, SQL",10,Teaching,Reading,"Math, Bangla, ICT",nontech,Accountant
+Nusrat,22,MA,"Public Speaking, Data Analysis, C++, Leadership",5,Marketing,Gaming,"Math, ICT, Physics",tech,AI Engineer
+Imran,19,MSc,"Communication, Public Speaking",6,Data Science,Photography,"English, Bangla",tech,Nurse
+Nayeem,24,BA,"Python, Public Speaking",10,Business,Traveling,"English, ICT, Math, Bangla",nontech,Data Scientist
+Tania,25,MA,"Data Analysis, Machine Learning",0,Data Science,Gaming,"Economics, Math, ICT, Bangla",nontech,Digital Marketer
+Sadia,35,BA,"C++, Communication, Leadership, Excel",1,Marketing,Gaming,"Bangla, Math, Physics",tech,Web Developer
+Nusrat,21,MSc,"Java, SQL, C++, Data Analysis, Excel",1,Teaching,Gaming,"Biology, Physics, Chemistry",tech,Teacher
+Rafi,26,BA,"C++, Java, SQL, Public Speaking",6,Business,Music,"Biology, Physics",nontech,Mechanical Engineer
+Tania,33,HSC,"SQL, Leadership, C++, Machine Learning, Communication",7,Design,Music,"Economics, Biology, English, Math",tech,Graphic Designer
+Hasan,20,BA,"Public Speaking, Java, Excel, Data Analysis",1,Business,Gaming,"Biology, Economics, Math",tech,Business Analyst
+Karim,19,Diploma,"C++, Data Analysis, Leadership",10,Data Science,Photography,"Bangla, Chemistry, Math, Economics",tech,Graphic Designer
+Rafi,26,MA,"C++, Machine Learning, Public Speaking, Data Analysis",10,Web Development,Writing,"Bangla, Biology, Physics, Economics",tech,Digital Marketer
+Rahim,32,HSC,"SQL, Python, Excel",10,Engineering,Music,"Bangla, Chemistry, ICT",nontech,Teacher
+Amina,34,Diploma,"Java, Python",3,Design,Gaming,"Biology, English",tech,Data Scientist
+Rahim,24,HSC,"Data Analysis, Python, Java",3,Data Science,Reading,"English, Bangla",tech,Nurse
+Tania,27,HSC,"Python, Communication",6,Teaching,Music,"English, Math, Biology",nontech,Mechanical Engineer
+Nayeem,19,MA,"Excel, Machine Learning, Leadership, Communication, Python",4,Design,Traveling,"Biology, Physics",nontech,Accountant
+Rahim,24,BA,"Leadership, Excel, SQL, Python",6,Web Development,Gaming,"Biology, Physics, Chemistry",tech,Business Analyst
+Rahim,25,MSc,"Excel, Python",7,Teaching,Drawing,"Math, Economics, Physics, ICT",tech,AI Engineer
+Karim,32,HSC,"Public Speaking, Python, Leadership, C++, Excel",3,Engineering,Writing,"Math, Biology, Chemistry",nontech,Nurse
+Rafi,34,SSC,"Machine Learning, C++, SQL, Communication",8,Healthcare,Music,"English, Biology, Math",tech,Mechanical Engineer
+Karim,20,BA,"Public Speaking, C++, Data Analysis",1,AI,Drawing,"Physics, Biology, ICT",nontech,Data Scientist
+Karim,22,SSC,"SQL, Public Speaking, C++, Communication, Machine Learning",2,Business,Reading,"English, Math",tech,Data Scientist
+Nayeem,21,HSC,"Python, Leadership, Java",9,Engineering,Photography,"English, ICT, Physics",nontech,Digital Marketer
+Amina,25,HSC,"Excel, Java, Machine Learning, Python",1,Finance,Music,"Physics, Math, Biology, Chemistry",nontech,Business Analyst
+Hasan,27,SSC,"Python, C++, SQL, Data Analysis",6,Web Development,Gaming,"Physics, Economics, Math, Chemistry",nontech,Digital Marketer
+Rafi,23,SSC,"Machine Learning, C++, Leadership, SQL, Excel",2,Healthcare,Drawing,"English, Chemistry, Math",nontech,Data Scientist
+Sadia,33,MA,"C++, SQL, Communication",7,AI,Reading,"Physics, Biology",nontech,Digital Marketer
+Imran,24,HSC,"SQL, Data Analysis, Leadership, Communication, Excel",8,Data Science,Photography,"ICT, Chemistry, Biology, Physics",tech,Data Scientist
+Nayeem,18,BSc,"Machine Learning, Excel",0,Web Development,Drawing,"Physics, Math, English, Bangla",nontech,Accountant
+Nusrat,25,MA,"Communication, SQL, Data Analysis, Leadership, Machine Learning",0,Teaching,Music,"Chemistry, ICT, Physics",tech,Graphic Designer
+Karim,28,MA,"C++, Data Analysis, Public Speaking",5,Engineering,Gaming,"Math, Physics, ICT, Economics",nontech,AI Engineer
+Nusrat,22,SSC,"Communication, C++, Leadership, SQL, Data Analysis",5,Finance,Reading,"Bangla, Math, Biology",tech,Web Developer
+Karim,24,MA,"Machine Learning, Java, Leadership, Communication",5,AI,Writing,"Bangla, ICT, Physics",nontech,Teacher
+Rafi,25,BSc,"Machine Learning, Public Speaking, Leadership",7,Marketing,Gaming,"ICT, English, Physics, Biology",tech,AI Engineer
+Imran,25,SSC,"Python, C++, Machine Learning, SQL",8,Business,Photography,"Bangla, Chemistry, Biology",nontech,Graphic Designer
+Nusrat,28,BA,"C++, Leadership, Machine Learning",0,Business,Writing,"Biology, Math, Bangla",nontech,Accountant
+Rahim,26,MA,"Leadership, Excel, SQL, Public Speaking",1,Marketing,Gaming,"ICT, English, Physics",nontech,Business Analyst
+Rahim,29,BSc,"Data Analysis, Excel",7,Engineering,Drawing,"English, Economics",tech,Nurse
+Hasan,26,MA,"Python, Leadership, Communication, SQL, Excel",1,Design,Gaming,"ICT, English, Economics, Biology",tech,Mechanical Engineer
+Sadia,30,MA,"Data Analysis, Leadership, Excel, C++, Machine Learning",9,Business,Writing,"Physics, English, ICT, Math",nontech,Digital Marketer
+Sadia,31,SSC,"Data Analysis, Machine Learning, C++, Python, Excel",6,Healthcare,Music,"Math, ICT",nontech,Accountant
+Hasan,34,BSc,"Python, Excel, Data Analysis",9,Teaching,Photography,"Physics, Chemistry, Biology",nontech,Mechanical Engineer
+Nayeem,29,SSC,"SQL, Data Analysis, Communication, Public Speaking, Excel",7,Data Science,Writing,"English, Economics, ICT, Math",tech,Digital Marketer
+Amina,25,BA,"SQL, Machine Learning, Leadership, Data Analysis, Python",4,Healthcare,Drawing,"Chemistry, ICT",nontech,Mechanical Engineer
+Amina,35,SSC,"Excel, Python, C++, Leadership, SQL",6,Design,Drawing,"Math, ICT, Economics",tech,Mechanical Engineer
+Karim,28,MSc,"Data Analysis, Leadership, Machine Learning, Public Speaking",10,Finance,Reading,"Economics, English",nontech,Accountant
+Karim,21,BA,"C++, Python",4,Web Development,Reading,"Biology, Economics, Chemistry",tech,Mechanical Engineer
+Rahim,18,HSC,"Excel, C++, SQL, Public Speaking, Machine Learning",3,Healthcare,Photography,"Chemistry, Physics, ICT, Economics",tech,Web Developer
+Rafi,22,MA,"Java, SQL, Communication, Public Speaking",2,Finance,Reading,"Bangla, Biology",nontech,Nurse
+Tania,33,HSC,"Public Speaking, Python, Java, SQL, Machine Learning",0,Marketing,Gaming,"Chemistry, English, Bangla, Biology",tech,Business Analyst
+Nusrat,30,Diploma,"Leadership, Machine Learning, Python, C++",0,Business,Music,"Biology, English, Math, Economics",nontech,Nurse
+Sadia,24,BA,"C++, Java, Data Analysis",1,Marketing,Photography,"Chemistry, Math, Bangla, Physics",tech,Graphic Designer
+Nusrat,26,BA,"Data Analysis, Public Speaking, Excel, C++",9,Web Development,Gaming,"Biology, Chemistry, Bangla, Math",tech,Accountant
+Rahim,24,BSc,"Java, Communication, C++, Data Analysis, Python",4,AI,Writing,"Economics, Biology",tech,Web Developer
+Sadia,29,MSc,"Java, Data Analysis, Python",9,Design,Drawing,"Biology, Economics, Chemistry, ICT",nontech,Digital Marketer
+Amina,27,HSC,"Leadership, Java, C++",0,Design,Music,"Bangla, Economics",nontech,Business Analyst
+Tania,21,MSc,"Communication, Excel, C++, Machine Learning, Leadership",9,Engineering,Music,"Economics, Biology, Bangla, Math",tech,Web Developer
+Imran,28,SSC,"Leadership, Excel, Java, SQL, Machine Learning",4,Healthcare,Drawing,"Bangla, English, Physics",nontech,Mechanical Engineer
+Tania,24,HSC,"Public Speaking, Data Analysis, Excel, SQL, Java",1,Design,Photography,"ICT, English, Physics",tech,Digital Marketer
+Sadia,31,BA,"Data Analysis, Communication, Python, Excel",3,Teaching,Gaming,"Chemistry, Bangla",tech,Teacher
+Rahim,25,BA,"SQL, Public Speaking, Leadership",6,Healthcare,Traveling,"Bangla, ICT, Physics",tech,Data Scientist
+Imran,26,MA,"Leadership, Java, Communication",0,Web Development,Traveling,"Physics, English, Biology, Bangla",nontech,Digital Marketer
+Amina,31,BSc,"SQL, Leadership, Machine Learning",8,Teaching,Reading,"Math, Physics",tech,Teacher
+Karim,30,BA,"Public Speaking, SQL, C++, Leadership, Communication",5,Design,Reading,"Physics, Biology, English",tech,Graphic Designer
+Rahim,19,MSc,"Machine Learning, Leadership",7,Design,Traveling,"Math, Economics, English",nontech,Digital Marketer
+Nayeem,31,SSC,"Leadership, Excel, Python, Communication",1,Teaching,Music,"Biology, Bangla, Math, Economics",tech,Business Analyst
+Rahim,24,HSC,"SQL, Data Analysis",4,Web Development,Gaming,"Economics, Physics, Math, Bangla",nontech,Teacher
+Rahim,20,SSC,"Leadership, Communication, C++",0,Engineering,Writing,"Economics, English, Biology, Physics",tech,Web Developer
+Karim,22,HSC,"Leadership, Python, Excel, Public Speaking",10,Design,Gaming,"Biology, ICT, Bangla, Chemistry",nontech,Digital Marketer
+Nusrat,30,SSC,"Excel, Java, SQL, Python",2,Business,Traveling,"Chemistry, Bangla, Math",tech,Business Analyst
+Nayeem,35,MSc,"Java, Python",9,Finance,Photography,"English, Biology, Math, Bangla",tech,Graphic Designer
+Rahim,29,Diploma,"Machine Learning, C++, Data Analysis, Excel, Java",3,Data Science,Writing,"Chemistry, ICT, Economics",nontech,Nurse
+Nusrat,32,BSc,"Python, C++, SQL",6,Data Science,Traveling,"Economics, Physics, Math",nontech,Mechanical Engineer
+Amina,27,BA,"Leadership, Java, Public Speaking",5,Teaching,Drawing,"Physics, English, Economics",tech,Graphic Designer
+Sadia,25,MSc,"Communication, Machine Learning",3,Web Development,Drawing,"ICT, Math",tech,AI Engineer
+Amina,24,HSC,"Public Speaking, C++, Communication",3,Design,Photography,"Bangla, Biology, Chemistry",tech,Nurse
+Amina,31,HSC,"Data Analysis, Python, C++, Communication, Java",8,Data Science,Photography,"Economics, Physics",tech,AI Engineer
+Rahim,30,MA,"Communication, Java",8,Marketing,Photography,"ICT, Math, Bangla, English",tech,Web Developer
+Nusrat,24,Diploma,"Public Speaking, SQL, Python, Machine Learning, Excel",5,Web Development,Photography,"English, Chemistry, ICT, Physics",tech,Web Developer
+Rahim,27,MSc,"Leadership, Data Analysis",5,Design,Writing,"Biology, Physics, Economics, ICT",tech,AI Engineer
+Amina,29,Diploma,"Excel, Communication",0,Healthcare,Gaming,"Chemistry, Biology, English, Bangla",tech,Graphic Designer
+Hasan,28,MSc,"Machine Learning, Java",5,Design,Writing,"ICT, Math",nontech,AI Engineer
+Imran,19,MSc,"Communication, Public Speaking",4,AI,Writing,"Chemistry, Math, Bangla",tech,Accountant
+Rahim,28,HSC,"SQL, C++, Public Speaking, Excel, Leadership",3,Design,Music,"Physics, Economics, Bangla",tech,AI Engineer
+Tania,19,BA,"Java, Excel, C++, Leadership, Data Analysis",2,Engineering,Photography,"Math, English",tech,Data Scientist
+Amina,31,BSc,"Machine Learning, Public Speaking, Excel",7,AI,Writing,"Chemistry, ICT",nontech,Business Analyst
+Sadia,33,MSc,"Leadership, Java",3,Engineering,Drawing,"Economics, Bangla, Chemistry, Biology",nontech,Business Analyst
+Nusrat,35,HSC,"Python, Communication",9,Web Development,Gaming,"Bangla, English, Biology, Economics",nontech,Accountant
+Tania,33,Diploma,"Python, Excel, Machine Learning",3,Marketing,Reading,"Biology, Economics",nontech,Mechanical Engineer
+Tania,32,SSC,"Python, SQL, Excel, Communication",8,Marketing,Gaming,"Chemistry, Math, English, Economics",tech,Digital Marketer
+Tania,33,BA,"SQL, Java",4,Web Development,Photography,"English, ICT, Math",nontech,Accountant
+Rahim,34,MA,"Public Speaking, Machine Learning, SQL, Leadership, Communication",8,Healthcare,Traveling,"Physics, ICT, Bangla, Math",tech,Web Developer
+Imran,34,BSc,"Data Analysis, Public Speaking, C++",1,Web Development,Photography,"Chemistry, Biology",tech,Accountant
+Sadia,18,SSC,"Data Analysis, Java, Public Speaking, Machine Learning, Excel",4,Web Development,Reading,"Physics, Economics",tech,Web Developer
+Tania,30,SSC,"Excel, Data Analysis",0,Teaching,Photography,"Bangla, Economics, Math",nontech,Digital Marketer
+Imran,35,HSC,"Communication, Excel",1,Design,Traveling,"Bangla, Chemistry",nontech,Accountant
+Imran,33,HSC,"Java, Data Analysis, Excel, Communication, Leadership",10,Business,Reading,"Math, Bangla",nontech,AI Engineer
+Karim,25,HSC,"Excel, Python, C++",10,Teaching,Writing,"Economics, Chemistry, Bangla, Math",nontech,Accountant
+Karim,20,MA,"Data Analysis, Python, C++",4,Marketing,Traveling,"Physics, Biology",tech,Business Analyst
+Nayeem,35,Diploma,"Excel, Leadership",3,Teaching,Gaming,"Biology, ICT, Bangla, Physics",tech,Web Developer
+Karim,28,MSc,"Public Speaking, Java, Python, Excel",0,Data Science,Traveling,"English, Chemistry",nontech,Web Developer
+Nusrat,26,MSc,"Data Analysis, C++, SQL, Public Speaking, Communication",0,Web Development,Gaming,"Chemistry, Bangla",nontech,Graphic Designer
+Rafi,34,HSC,"Python, Public Speaking",2,Web Development,Music,"Economics, Chemistry, Biology, English",tech,AI Engineer
+Nayeem,25,MSc,"Public Speaking, Python, Java, C++",6,Design,Photography,"Math, Physics",tech,Teacher
+Tania,22,BA,"C++, SQL, Leadership, Machine Learning, Python",6,Marketing,Photography,"English, Math",tech,AI Engineer
+Amina,31,MSc,"Excel, Machine Learning, Java",0,Design,Drawing,"ICT, Bangla, Physics, Math",nontech,Business Analyst
+Nayeem,18,Diploma,"Python, Leadership, Public Speaking",6,Engineering,Drawing,"Bangla, Biology",nontech,Business Analyst
+Imran,20,MSc,"Java, Leadership",6,Teaching,Gaming,"Chemistry, Physics",nontech,Digital Marketer
+Amina,23,HSC,"Excel, Machine Learning, Public Speaking",3,Finance,Music,"Chemistry, ICT",nontech,Graphic Designer
+Nayeem,34,SSC,"Machine Learning, Communication, Public Speaking, Python, Java",0,Data Science,Gaming,"Bangla, English, Biology, Economics",nontech,Web Developer
+Rafi,28,Diploma,"Java, Leadership, Excel, Machine Learning, Communication",3,Marketing,Writing,"Chemistry, Biology, Math, English",tech,Graphic Designer
+Tania,24,BSc,"Python, Communication, C++, Leadership",1,Business,Traveling,"English, Math",tech,AI Engineer
+Karim,31,MSc,"Python, Java",0,Finance,Photography,"Economics, English, Bangla, Physics",tech,Web Developer
+Nayeem,25,BA,"Python, Data Analysis, Leadership, Excel",7,Business,Photography,"Physics, Economics, Math, ICT",nontech,Mechanical Engineer
+Karim,18,MSc,"Public Speaking, SQL, Leadership, Communication",9,Finance,Gaming,"Math, English",tech,Graphic Designer
+Tania,28,BA,"Machine Learning, Communication, Leadership, C++",10,Data Science,Reading,"Biology, English",nontech,AI Engineer
+Imran,27,BSc,"Communication, Public Speaking, Machine Learning, SQL, Excel",2,AI,Drawing,"Math, Biology, English",tech,Data Scientist
+Nusrat,32,SSC,"Java, SQL, C++",2,Engineering,Photography,"English, Economics, ICT",nontech,Data Scientist
+Karim,26,BSc,"Public Speaking, Python, SQL, Java",6,Finance,Drawing,"English, ICT, Math, Physics",nontech,Data Scientist
+Rafi,23,HSC,"Java, SQL",8,Finance,Reading,"Biology, ICT, English",nontech,Business Analyst
+Karim,29,BA,"Public Speaking, Machine Learning",10,Engineering,Traveling,"Physics, Biology",nontech,Data Scientist
+Sadia,19,HSC,"Communication, Java, Python, SQL, Leadership",7,Healthcare,Gaming,"English, Biology",nontech,AI Engineer
+Hasan,34,Diploma,"SQL, Python, C++, Machine Learning, Java",10,Teaching,Music,"Chemistry, Math, Economics",tech,Accountant
+Rafi,19,BA,"SQL, Public Speaking, Python",10,Data Science,Traveling,"Biology, Math, Economics, Physics",tech,Business Analyst
+Hasan,27,SSC,"SQL, Java, C++, Leadership, Machine Learning",7,AI,Photography,"Economics, Math, Physics",nontech,Data Scientist
+Sadia,33,SSC,"Java, Public Speaking",6,Marketing,Drawing,"Biology, ICT",nontech,Data Scientist
+Nusrat,30,Diploma,"Data Analysis, Leadership",1,Data Science,Traveling,"Economics, Chemistry, Math, Physics",tech,Teacher
+Nayeem,26,BA,"Communication, SQL, Leadership",9,Business,Photography,"English, Biology, Bangla, ICT",tech,Teacher
+Imran,32,MSc,"Python, Excel, Leadership",7,Web Development,Writing,"Bangla, Math",tech,Teacher
+Sadia,34,BSc,"Communication, Public Speaking",2,Data Science,Gaming,"ICT, Bangla, Math",tech,Data Scientist
+Imran,18,Diploma,"Machine Learning, Excel, Data Analysis",0,Finance,Reading,"Chemistry, Bangla",nontech,AI Engineer
+Nayeem,29,BA,"C++, Leadership, Machine Learning, Excel, SQL",2,Design,Writing,"Chemistry, Biology",tech,Graphic Designer
+Imran,32,BA,"SQL, Machine Learning",2,Data Science,Writing,"Math, Chemistry, Economics",tech,Mechanical Engineer
+Hasan,33,BA,"Data Analysis, Leadership",6,Teaching,Traveling,"Physics, Bangla, Math, Economics",tech,Data Scientist
+Tania,27,SSC,"C++, Public Speaking",10,Business,Reading,"Bangla, Physics, Chemistry, Biology",nontech,Accountant
+Amina,18,BA,"Excel, Leadership, Java, SQL",8,Design,Photography,"ICT, English",nontech,AI Engineer
+Rafi,23,SSC,"Public Speaking, Communication, Python, C++",8,Design,Drawing,"ICT, Biology, Physics, Bangla",nontech,Web Developer
+Sadia,32,MSc,"Machine Learning, Communication",10,Finance,Music,"Economics, Bangla, ICT, Physics",nontech,Digital Marketer
+Karim,20,BSc,"Java, SQL, Data Analysis",0,AI,Photography,"Economics, Bangla, Math",tech,Accountant
+Nusrat,20,SSC,"Machine Learning, Java",1,Data Science,Drawing,"Chemistry, Biology, English",tech,Teacher
+Rafi,23,MA,"Communication, Java",0,Design,Reading,"ICT, Biology, Math, Bangla",tech,AI Engineer
+Imran,21,HSC,"Data Analysis, Public Speaking, C++",2,Engineering,Traveling,"English, Physics, Biology, Bangla",tech,Web Developer
+Nusrat,30,SSC,"SQL, Java, C++, Python, Data Analysis",5,AI,Photography,"Physics, Chemistry",tech,Mechanical Engineer
+Imran,18,MA,"Communication, SQL, Data Analysis, Public Speaking, Leadership",4,Finance,Reading,"Economics, ICT, Math",tech,Data Scientist
+Rahim,24,Diploma,"Python, Communication",9,Finance,Traveling,"Economics, Chemistry, Bangla, Math",tech,AI Engineer
+Rafi,31,BSc,"Machine Learning, Public Speaking, Data Analysis, Communication, C++",3,Marketing,Reading,"Physics, ICT, Math, Chemistry",tech,Nurse
+Amina,21,HSC,"Machine Learning, SQL, C++",4,Business,Traveling,"Math, Physics, Economics, ICT",nontech,Teacher
+Amina,30,HSC,"Machine Learning, C++, Communication",10,Web Development,Reading,"Chemistry, Economics, ICT, Math",nontech,Digital Marketer
+Tania,31,MSc,"Excel, Machine Learning",10,Web Development,Photography,"ICT, Economics",tech,Web Developer
+Nayeem,28,MA,"SQL, Leadership, Excel, C++",5,Marketing,Drawing,"ICT, Math, Economics, Bangla",tech,Web Developer
+Sadia,21,BA,"Machine Learning, Public Speaking, Python",2,Data Science,Reading,"Bangla, Physics, Economics",tech,AI Engineer
+Karim,27,HSC,"SQL, Python, Communication, Public Speaking, Leadership",1,Design,Traveling,"Math, Biology",nontech,Web Developer
+Rafi,34,MA,"C++, Java, Python",0,AI,Traveling,"Chemistry, Economics, Bangla",tech,Web Developer
+Hasan,31,Diploma,"Python, Communication, Java",8,Teaching,Photography,"Biology, Bangla, ICT",tech,AI Engineer
+Nusrat,18,Diploma,"SQL, Excel, Communication, C++, Machine Learning",0,AI,Reading,"English, Physics, Bangla, Math",tech,Data Scientist
+Imran,26,Diploma,"SQL, Data Analysis, Communication",5,Finance,Reading,"ICT, Bangla, Math, Economics",nontech,Nurse
+Imran,19,MA,"Communication, Data Analysis, SQL, Leadership",7,Business,Photography,"Chemistry, Biology",tech,AI Engineer
+Nusrat,25,HSC,"Data Analysis, Machine Learning, Leadership",7,Engineering,Music,"Physics, Economics",nontech,Teacher
+Rafi,23,HSC,"Leadership, Public Speaking",9,Finance,Reading,"Biology, Chemistry",nontech,Digital Marketer
+Rafi,33,HSC,"Public Speaking, Excel, SQL, C++, Communication",0,Teaching,Gaming,"Chemistry, Biology",tech,Mechanical Engineer
+Karim,22,MA,"Public Speaking, C++, SQL, Communication",6,Data Science,Reading,"ICT, Economics, Bangla, English",nontech,Web Developer
+Imran,19,BA,"Java, Public Speaking, Machine Learning, Excel",10,Marketing,Reading,"Economics, Chemistry",nontech,Business Analyst
+Rahim,29,MA,"Java, C++, Machine Learning, Excel",1,Web Development,Gaming,"Chemistry, Biology",nontech,Business Analyst
+Hasan,20,MSc,"C++, Java, Excel",9,Finance,Writing,"Chemistry, English, Economics, Bangla",nontech,AI Engineer
+Tania,32,HSC,"Machine Learning, C++, SQL, Communication, Data Analysis",9,Marketing,Music,"Math, ICT",tech,Web Developer
+Rafi,30,BA,"SQL, Leadership, Data Analysis, Python, Communication",0,AI,Reading,"Economics, English, ICT",tech,Data Scientist
+Nayeem,24,MA,"SQL, Communication, Python, Java, C++",6,Healthcare,Gaming,"Math, Economics",tech,Business Analyst
+Hasan,18,HSC,"C++, Data Analysis, Public Speaking, Python",0,Design,Drawing,"English, Economics, Bangla, Chemistry",tech,Mechanical Engineer
+Nusrat,31,SSC,"Python, Excel",8,Healthcare,Drawing,"Economics, Math",nontech,Nurse
+Tania,25,SSC,"Machine Learning, SQL, C++, Communication",4,Marketing,Photography,"Physics, Biology",nontech,Digital Marketer
+Hasan,19,BSc,"Public Speaking, Communication, C++, SQL, Java",0,Web Development,Writing,"Biology, Physics, Economics, Math",nontech,Mechanical Engineer
+Imran,32,HSC,"Python, SQL",3,AI,Photography,"Bangla, Economics, English, Chemistry",tech,AI Engineer
+Rafi,23,BSc,"Machine Learning, SQL, Communication, Excel, Leadership",1,Web Development,Writing,"Chemistry, Physics, ICT, English",nontech,Accountant
+Karim,33,MSc,"Leadership, Data Analysis",1,Data Science,Photography,"Chemistry, Math",nontech,Digital Marketer
+Tania,29,BA,"Communication, Data Analysis, C++, SQL, Python",10,AI,Traveling,"Chemistry, English",nontech,Business Analyst
+Amina,20,BSc,"SQL, Communication, Leadership, Java",10,Teaching,Writing,"Economics, ICT, Math, English",tech,Teacher
+Rahim,20,HSC,"C++, Python",8,Marketing,Photography,"Biology, Math, Economics",nontech,Mechanical Engineer
+Tania,18,HSC,"Java, Machine Learning",5,Data Science,Drawing,"Physics, Chemistry, Math",nontech,Business Analyst
+Rahim,30,BSc,"Machine Learning, Excel, Leadership, Python",7,Data Science,Music,"Chemistry, Bangla",nontech,Data Scientist
+Rafi,33,BA,"Public Speaking, SQL",0,Design,Reading,"Physics, Economics, Chemistry, Bangla",nontech,Teacher
+Amina,34,HSC,"Java, Excel",4,Web Development,Gaming,"English, Physics, Bangla, Math",tech,AI Engineer
+Imran,23,HSC,"Java, C++, Python, Machine Learning",6,AI,Photography,"Bangla, Biology",nontech,Nurse
+Tania,27,Diploma,"Communication, Java, Data Analysis, Excel, Public Speaking",7,Business,Music,"Bangla, English, Math",tech,Teacher
+Sadia,29,SSC,"Communication, Python, SQL, Excel, Data Analysis",0,Design,Photography,"Bangla, Economics, ICT, Math",tech,AI Engineer
+Hasan,34,Diploma,"Data Analysis, Public Speaking, Machine Learning",0,AI,Music,"Biology, Bangla, ICT, Physics",tech,Data Scientist
+Sadia,35,Diploma,"Machine Learning, Public Speaking, Communication, Python",2,Design,Traveling,"English, Chemistry",nontech,Digital Marketer
+Nayeem,21,MA,"Python, Excel, Communication, SQL",4,Engineering,Drawing,"Economics, Math",tech,Data Scientist
+Karim,18,MA,"Leadership, Data Analysis, Java, C++, Excel",0,Business,Drawing,"Math, Physics, Biology, Chemistry",tech,Nurse
+Karim,22,Diploma,"Python, Java, Leadership, SQL",10,Engineering,Traveling,"ICT, Math",nontech,AI Engineer
+Amina,25,SSC,"Java, Leadership, Machine Learning, Python, C++",10,Engineering,Gaming,"Economics, Math, Chemistry, Bangla",nontech,Web Developer
+Hasan,25,MA,"Python, Machine Learning, SQL",3,Marketing,Drawing,"English, Physics, ICT, Chemistry",nontech,Accountant
+Karim,22,SSC,"Java, Excel, Machine Learning",1,Business,Photography,"ICT, English, Math",nontech,AI Engineer
+Sadia,25,HSC,"Java, Communication, Python, Leadership, SQL",4,AI,Gaming,"English, Economics, Math",nontech,Mechanical Engineer
+Amina,32,HSC,"Excel, Leadership",1,Engineering,Traveling,"Physics, Economics, English, Chemistry",nontech,AI Engineer
+Nusrat,21,BSc,"Public Speaking, Java",7,Business,Photography,"Math, English, Chemistry",nontech,Digital Marketer
+Karim,30,BSc,"Public Speaking, Machine Learning, Java",8,Web Development,Gaming,"Math, ICT",nontech,Mechanical Engineer
+Nayeem,23,Diploma,"C++, SQL, Python",4,Business,Reading,"ICT, Biology",tech,Mechanical Engineer
+Nayeem,27,SSC,"Leadership, Machine Learning, Python, C++, SQL",3,Healthcare,Music,"Biology, Chemistry, Bangla, ICT",tech,Teacher
+Tania,29,SSC,"Excel, Data Analysis",6,Finance,Gaming,"English, Chemistry",nontech,Teacher
+Tania,19,MA,"Leadership, Excel, Python",6,Data Science,Reading,"Economics, Chemistry, Physics, ICT",nontech,Teacher
+Nusrat,31,Diploma,"Machine Learning, Communication, Leadership",0,Engineering,Gaming,"Economics, Physics, English, Math",nontech,Data Scientist
+Sadia,20,MA,"SQL, Python, Excel",10,Teaching,Reading,"Economics, Biology, Math, English",tech,Data Scientist
+Sadia,32,BA,"Java, C++, Data Analysis, Leadership, Communication",8,Finance,Music,"Chemistry, Biology",tech,Teacher
+Karim,35,SSC,"Excel, Data Analysis",4,Engineering,Drawing,"Chemistry, Biology, ICT",nontech,Digital Marketer
+Karim,34,Diploma,"Public Speaking, SQL",7,Data Science,Traveling,"Math, English, Physics, Chemistry",tech,Teacher
+Rahim,29,MSc,"C++, Public Speaking",9,Healthcare,Gaming,"ICT, Math, Chemistry",tech,Graphic Designer
+Nayeem,33,Diploma,"Machine Learning, Public Speaking",1,Business,Writing,"Physics, Biology, ICT",nontech,Accountant
+Nusrat,20,MSc,"Leadership, Data Analysis, Excel, Python",8,Healthcare,Reading,"English, Bangla, ICT",nontech,Business Analyst
+Nusrat,35,MSc,"Leadership, Public Speaking, Data Analysis, SQL, Machine Learning",7,Healthcare,Gaming,"Chemistry, Bangla, Biology",nontech,Business Analyst
+Hasan,23,SSC,"Machine Learning, Python, C++",6,Business,Writing,"ICT, Physics, Chemistry, Biology",tech,Digital Marketer
+Nayeem,30,MA,"Python, Java, Leadership, Machine Learning",9,Business,Reading,"Physics, English, Chemistry, Biology",tech,Mechanical Engineer
+Rahim,24,HSC,"Public Speaking, SQL, Leadership, Python",4,Data Science,Gaming,"Bangla, ICT",tech,AI Engineer
+Rafi,30,BA,"Excel, SQL, Leadership, Communication",10,Business,Photography,"Biology, Math, Economics",nontech,Data Scientist
+Karim,18,HSC,"C++, Java, Python, Excel, Communication",1,AI,Photography,"English, Physics, ICT, Math",tech,Accountant
+Nayeem,34,Diploma,"C++, SQL, Excel, Python",4,Finance,Gaming,"English, Bangla",nontech,Digital Marketer
+Rahim,26,MA,"Leadership, Python, Data Analysis, SQL, C++",2,AI,Gaming,"ICT, Math",tech,Nurse
+Tania,33,SSC,"Leadership, Public Speaking, Data Analysis",5,Teaching,Photography,"Math, Biology",nontech,Digital Marketer
+Imran,22,MSc,"Public Speaking, C++, Excel, Leadership",9,Finance,Reading,"ICT, Biology, Math",tech,Nurse
+Rahim,28,HSC,"Excel, Java, Public Speaking",8,Healthcare,Gaming,"Bangla, Chemistry, English",tech,Accountant
+Sadia,22,BSc,"Python, Java, Excel, Data Analysis",7,Business,Writing,"English, Economics",tech,Nurse
+Imran,20,Diploma,"Excel, Leadership",3,Engineering,Photography,"Bangla, Math, Chemistry, Physics",tech,Digital Marketer
+Imran,33,HSC,"Public Speaking, Data Analysis, C++, Excel",3,Business,Drawing,"Chemistry, Bangla",tech,Mechanical Engineer
+Sadia,19,BSc,"Java, Machine Learning, Public Speaking",8,Engineering,Traveling,"Bangla, Physics",nontech,Data Scientist
+Karim,27,MA,"Public Speaking, SQL, Data Analysis, Python",8,Teaching,Gaming,"Math, Economics",tech,Data Scientist
+Tania,23,MA,"Public Speaking, Java, Excel",9,Teaching,Writing,"Bangla, Math, ICT",tech,Business Analyst
+Hasan,24,BA,"Java, Public Speaking",5,Healthcare,Traveling,"Physics, Math",tech,Business Analyst
+Nayeem,24,BSc,"Public Speaking, Excel, Python, Leadership",6,Teaching,Drawing,"Math, ICT, Biology",nontech,Teacher
+Sadia,34,SSC,"Java, Data Analysis, SQL, Python, C++",8,Design,Music,"Physics, Economics, Chemistry",nontech,Digital Marketer
+Hasan,22,SSC,"Machine Learning, C++, Communication, Public Speaking, Java",7,Engineering,Writing,"ICT, Economics, Math",nontech,AI Engineer
+Amina,33,MA,"Excel, Communication",1,Marketing,Traveling,"English, Physics",nontech,AI Engineer
+Hasan,23,BA,"C++, Leadership, Communication, Data Analysis",9,Web Development,Reading,"Math, Economics, Bangla, Physics",nontech,Graphic Designer
+Sadia,25,Diploma,"Communication, Public Speaking, Java",4,Marketing,Drawing,"Biology, Physics",tech,Teacher
+Karim,18,MSc,"SQL, Data Analysis, Java",3,Finance,Drawing,"Math, Physics, Chemistry, Bangla",tech,AI Engineer
+Tania,32,BSc,"Java, SQL, C++, Leadership",1,Data Science,Photography,"English, Bangla",nontech,Accountant
+Amina,22,SSC,"Java, Machine Learning, Communication, Leadership, Data Analysis",7,Teaching,Gaming,"Chemistry, Math, Economics, Physics",nontech,Web Developer
+Rafi,26,SSC,"SQL, Python, Machine Learning, Excel",5,Web Development,Music,"Bangla, Chemistry",tech,Business Analyst
+Amina,29,BSc,"Communication, Java",3,Design,Reading,"ICT, Economics",tech,Digital Marketer
+Karim,31,MSc,"Data Analysis, Communication",8,AI,Writing,"ICT, English, Economics",nontech,Mechanical Engineer
+Hasan,22,BA,"Machine Learning, Leadership",5,Finance,Gaming,"Physics, Math, Biology",tech,Nurse
+Rahim,30,SSC,"Communication, Leadership, Public Speaking",0,Data Science,Gaming,"Chemistry, Bangla, Biology, ICT",nontech,Web Developer
+Nayeem,33,MSc,"Java, Public Speaking, Machine Learning, Excel",5,Web Development,Traveling,"Biology, Physics, English",tech,Mechanical Engineer
+Nayeem,24,Diploma,"Machine Learning, SQL, Communication, Java, Excel",7,Web Development,Photography,"Economics, English",nontech,Graphic Designer
+Amina,33,BA,"Python, SQL, Leadership, Excel, Machine Learning",9,AI,Gaming,"English, Physics, Chemistry, Economics",tech,Nurse
+Tania,20,MA,"SQL, C++, Excel, Leadership",10,Business,Photography,"Chemistry, English, ICT, Biology",tech,Graphic Designer
+Nayeem,28,SSC,"Public Speaking, Excel",6,Business,Photography,"Math, Economics, ICT, English",tech,Web Developer
+Hasan,19,SSC,"Public Speaking, Data Analysis",8,Marketing,Reading,"English, Economics, Physics",nontech,Mechanical Engineer
+Sadia,33,MSc,"Leadership, Python",1,Design,Traveling,"Physics, Bangla, Biology",tech,Data Scientist
+Nayeem,33,Diploma,"Communication, Data Analysis, Java",2,Design,Traveling,"English, Economics, Biology",tech,Accountant
+Amina,20,BA,"Public Speaking, Python",5,Design,Gaming,"Biology, Math, Physics",nontech,Teacher
+Sadia,34,Diploma,"SQL, Excel, Leadership, Java",10,Healthcare,Writing,"Chemistry, Math",tech,Data Scientist
+Karim,35,BSc,"Machine Learning, Data Analysis, Python, Leadership, Public Speaking",0,Engineering,Drawing,"Economics, Biology, Math",nontech,Nurse
+Nayeem,20,MA,"Data Analysis, Excel, Communication",6,Engineering,Writing,"ICT, Economics",nontech,Digital Marketer
+Nayeem,33,SSC,"Excel, Leadership, Data Analysis, Java, Public Speaking",4,Finance,Photography,"ICT, Biology, Physics, Economics",tech,Web Developer
+Hasan,32,MSc,"Leadership, Python, Java",0,AI,Writing,"Physics, English, Bangla",nontech,Mechanical Engineer
+Rafi,29,BSc,"Leadership, Python, Communication",7,Teaching,Gaming,"English, Biology, ICT, Bangla",tech,Digital Marketer
+Rafi,34,HSC,"C++, SQL, Communication",5,Marketing,Writing,"Biology, Physics, Math, ICT",tech,Graphic Designer
+Hasan,20,MA,"Public Speaking, Communication, Leadership, Python",10,Marketing,Reading,"Physics, Chemistry",tech,Digital Marketer
+Nayeem,22,BSc,"Communication, Leadership",0,Healthcare,Music,"Math, Physics, Economics",nontech,Nurse
+Imran,32,MSc,"Excel, Machine Learning",4,Business,Music,"Biology, English, Physics, Math",tech,Data Scientist
+Imran,35,Diploma,"Java, Machine Learning, Leadership, Data Analysis, Public Speaking",3,Engineering,Music,"Economics, Physics",tech,Business Analyst
+Hasan,18,MA,"C++, Public Speaking",6,Engineering,Photography,"Bangla, Economics, Biology, Chemistry",nontech,Nurse
+Rafi,34,BSc,"Python, Leadership",6,Data Science,Photography,"ICT, Biology, Bangla, English",nontech,Data Scientist
+Amina,26,BA,"Communication, Machine Learning, Python, C++",10,AI,Writing,"English, Economics, Bangla",tech,Graphic Designer
+Hasan,27,MSc,"Machine Learning, C++, Data Analysis",1,Teaching,Music,"ICT, Physics, Chemistry",tech,Mechanical Engineer
+Nayeem,25,Diploma,"Java, Excel, Data Analysis, Leadership",6,AI,Photography,"Math, Physics, ICT",nontech,Graphic Designer
+Tania,31,MA,"Python, SQL, Java",10,Data Science,Traveling,"Bangla, ICT, Math, Economics",nontech,Accountant
+Amina,35,MSc,"C++, SQL",8,Data Science,Photography,"Math, ICT, Chemistry",tech,Data Scientist
+Tania,23,MA,"Communication, Python, Data Analysis, Excel",8,Healthcare,Music,"Physics, Math, Biology",tech,Nurse
+Nayeem,27,MSc,"SQL, C++, Public Speaking, Leadership",4,Web Development,Reading,"Economics, Biology, ICT, Physics",nontech,Teacher
+Hasan,26,SSC,"Machine Learning, Python, Leadership",9,Teaching,Gaming,"Biology, English",tech,Nurse
+Karim,18,SSC,"SQL, Public Speaking, Machine Learning",7,Healthcare,Music,"Economics, Math, Biology",nontech,Web Developer
+Tania,26,HSC,"Public Speaking, Communication",0,Healthcare,Reading,"Chemistry, English",nontech,Business Analyst
+Sadia,34,MSc,"Python, C++, SQL, Data Analysis, Communication",10,Healthcare,Reading,"Biology, Bangla, Physics, ICT",tech,Nurse
+Rafi,35,HSC,"Java, Excel, Machine Learning",0,Teaching,Photography,"Physics, Economics",tech,Web Developer
+Amina,28,MSc,"Data Analysis, Communication, C++, SQL, Excel",2,Finance,Music,"English, Bangla",nontech,Data Scientist
+Imran,23,BSc,"SQL, C++, Python, Leadership, Data Analysis",0,Business,Traveling,"Math, ICT",nontech,Digital Marketer
+Imran,29,MA,"SQL, Communication, Data Analysis, Public Speaking, Python",2,Design,Photography,"English, Math, Bangla",nontech,Teacher
+Nusrat,31,MA,"Python, Public Speaking",7,Engineering,Photography,"English, Math, Economics",nontech,Graphic Designer
+Rafi,35,MA,"Excel, SQL",6,Teaching,Music,"Physics, Chemistry",nontech,Graphic Designer
+Hasan,18,HSC,"SQL, Data Analysis",2,Data Science,Music,"Biology, Math",nontech,Graphic Designer
+Hasan,19,SSC,"SQL, Leadership",0,Teaching,Drawing,"Biology, Economics, ICT, Chemistry",tech,Mechanical Engineer
+Nusrat,27,Diploma,"SQL, Excel",1,Data Science,Gaming,"Economics, Biology, Math",tech,Data Scientist
+Rahim,35,BA,"Machine Learning, Java, Leadership",4,Teaching,Reading,"English, Math, Bangla, Physics",tech,Business Analyst
+Nayeem,32,MSc,"Data Analysis, SQL, Public Speaking",9,AI,Gaming,"Biology, ICT",nontech,Teacher
+Karim,29,BSc,"Java, Public Speaking, Leadership, Python, Data Analysis",1,AI,Writing,"Biology, Bangla, Chemistry",nontech,Data Scientist
+Nayeem,24,Diploma,"Python, Data Analysis, Leadership, Communication",3,Business,Drawing,"Economics, English, ICT",nontech,Nurse
+Sadia,27,MSc,"Leadership, Python, Data Analysis, C++, Excel",1,AI,Gaming,"Math, Chemistry",nontech,AI Engineer
+Imran,21,BSc,"Java, Communication, Data Analysis",8,Business,Traveling,"Biology, Physics, Economics, English",tech,Graphic Designer
+Nayeem,24,SSC,"Machine Learning, SQL, Communication",8,Business,Writing,"ICT, English, Biology",nontech,Business Analyst
+Amina,20,HSC,"Excel, Public Speaking, SQL, Data Analysis",8,AI,Music,"ICT, Physics",nontech,Teacher
+Hasan,32,HSC,"Data Analysis, Java, Leadership, C++, Excel",6,Healthcare,Music,"Chemistry, Math, English",nontech,Accountant
+Karim,19,SSC,"Excel, Java, Public Speaking",0,Teaching,Writing,"Chemistry, English, ICT",tech,Graphic Designer
+Tania,19,SSC,"Java, Public Speaking",0,Design,Music,"Bangla, Math, Physics",nontech,Nurse
+Nayeem,20,SSC,"C++, Machine Learning",9,Healthcare,Writing,"Economics, English, Physics",tech,Nurse
+Karim,18,Diploma,"SQL, C++, Python, Data Analysis, Java",2,Business,Traveling,"Economics, Math",tech,AI Engineer
+Nusrat,30,SSC,"Machine Learning, Leadership, Excel",6,Teaching,Music,"ICT, Biology, Math, Economics",tech,Digital Marketer
+Karim,19,BA,"SQL, Machine Learning, Public Speaking",7,Design,Traveling,"Bangla, Math, Chemistry, Biology",tech,Web Developer
+Rahim,30,Diploma,"Excel, Machine Learning, Communication",7,Marketing,Gaming,"Biology, Physics, Bangla",tech,Accountant
+Tania,18,MSc,"Leadership, Public Speaking, Java, C++",3,Design,Reading,"Economics, Biology, Physics",nontech,Nurse
+Rafi,32,Diploma,"Public Speaking, Data Analysis, Java, Communication",6,Healthcare,Drawing,"Physics, Math, Biology, English",tech,Mechanical Engineer
+Tania,29,BA,"Communication, Python, C++",2,Teaching,Writing,"English, ICT",tech,AI Engineer
+Rahim,27,Diploma,"Data Analysis, Java",7,Web Development,Gaming,"Biology, ICT, English, Bangla",tech,Teacher
+Nayeem,30,BA,"Java, C++, Machine Learning, Public Speaking",4,Web Development,Writing,"ICT, English",nontech,Data Scientist
+Sadia,30,Diploma,"SQL, Python, Machine Learning, Excel, C++",5,Finance,Drawing,"Chemistry, Bangla",nontech,Teacher
+Hasan,30,MA,"Excel, Public Speaking, C++, Machine Learning",3,Data Science,Gaming,"ICT, Bangla",tech,Web Developer
+Imran,33,MA,"Java, C++, Machine Learning, SQL",10,AI,Traveling,"Physics, Chemistry, ICT",tech,Web Developer
+Nusrat,22,SSC,"Machine Learning, Excel, C++, Public Speaking",8,Teaching,Traveling,"English, Biology, Chemistry",nontech,Data Scientist
+Rafi,20,HSC,"Communication, Leadership, Public Speaking, Machine Learning, Excel",5,Data Science,Traveling,"Economics, Math, Bangla",nontech,Nurse
+Amina,18,Diploma,"SQL, Python, Public Speaking",8,Healthcare,Reading,"Bangla, English, Physics, Economics",tech,Nurse
+Nayeem,30,MSc,"Data Analysis, Machine Learning, SQL, Communication",6,Finance,Photography,"Math, Biology",nontech,Nurse
+Tania,21,HSC,"Python, Public Speaking, Data Analysis, Leadership, C++",9,Business,Reading,"Bangla, ICT, Physics, Economics",nontech,Digital Marketer
+Rafi,24,BSc,"Machine Learning, C++, Leadership, Communication, Python",6,Engineering,Photography,"Biology, Economics, ICT",tech,Web Developer
+Amina,20,MA,"Public Speaking, Python, Machine Learning, Java",3,Data Science,Writing,"Math, Physics, Chemistry, Economics",tech,Mechanical Engineer
+Imran,20,Diploma,"SQL, Data Analysis, Leadership, Excel, Machine Learning",2,Data Science,Drawing,"Math, Chemistry, Biology",tech,Mechanical Engineer
+Tania,33,MSc,"Excel, Machine Learning, Leadership, Java",7,Business,Writing,"Bangla, Economics",nontech,Business Analyst
+Rafi,35,BSc,"Excel, C++, Machine Learning",2,Business,Gaming,"English, Bangla, Biology, Math",nontech,Business Analyst
+Rafi,28,SSC,"SQL, C++, Data Analysis",7,Design,Music,"Bangla, Chemistry, Economics, English",tech,Graphic Designer
+Nayeem,32,BA,"Java, SQL, Public Speaking",7,AI,Photography,"Biology, English, ICT",nontech,Business Analyst
+Tania,20,Diploma,"Java, Excel, Python",7,Web Development,Traveling,"Economics, Bangla, English, ICT",tech,Data Scientist
+Nayeem,22,MA,"Communication, Public Speaking, Machine Learning",6,Healthcare,Drawing,"Bangla, Math",tech,Nurse
+Sadia,35,Diploma,"Communication, Excel, Public Speaking, Leadership",5,Web Development,Photography,"Biology, English, Math, Physics",nontech,Accountant
+Rahim,35,Diploma,"C++, Communication",4,Data Science,Photography,"Math, Biology, ICT, English",nontech,Graphic Designer
+Nayeem,28,BSc,"Data Analysis, Communication, Public Speaking, C++, Leadership",6,Web Development,Reading,"English, Economics, Biology, Chemistry",tech,Graphic Designer
+Nusrat,19,MSc,"Data Analysis, Python, Machine Learning, Communication",1,Design,Traveling,"Biology, English, Physics, Math",nontech,Graphic Designer
+Karim,27,BSc,"Java, C++, Python, SQL",3,AI,Drawing,"Math, English",nontech,Data Scientist
+Sadia,19,BA,"C++, Excel, Machine Learning, Java, Data Analysis",4,Design,Reading,"Physics, Chemistry",nontech,Web Developer
+Hasan,18,HSC,"Communication, C++, Java",1,AI,Music,"Physics, English, ICT",nontech,Graphic Designer
+Hasan,19,BA,"C++, Communication",3,Finance,Drawing,"Biology, Math, English, ICT",tech,Digital Marketer
+Nusrat,29,Diploma,"SQL, Leadership, Machine Learning, Public Speaking, Java",6,Business,Reading,"Chemistry, Bangla, Math, Physics",nontech,Nurse
+Nusrat,28,MA,"Leadership, Communication, Public Speaking, Excel",3,AI,Photography,"Physics, English, Economics, Biology",tech,Web Developer
+Tania,22,SSC,"Excel, SQL, Machine Learning",6,Web Development,Drawing,"Chemistry, ICT",nontech,Business Analyst
+Nayeem,35,HSC,"Leadership, C++",2,Finance,Drawing,"ICT, Bangla, Chemistry",nontech,Mechanical Engineer
+Imran,18,SSC,"Leadership, Python, Public Speaking, Machine Learning, Data Analysis",3,Business,Music,"English, Math, Biology",tech,Nurse
+Nusrat,29,HSC,"Public Speaking, C++",9,Engineering,Drawing,"Chemistry, Math",tech,Nurse
+Rahim,25,MA,"SQL, Leadership, Communication",9,Data Science,Writing,"Chemistry, ICT, Biology",nontech,Business Analyst
+Nusrat,24,Diploma,"Excel, Data Analysis, Java, Leadership, Python",8,Finance,Music,"Chemistry, ICT, Biology",nontech,Data Scientist
+Amina,28,BA,"C++, Machine Learning",4,AI,Photography,"Economics, Math, Chemistry, Bangla",tech,Mechanical Engineer
+Karim,20,MA,"Java, Python, Machine Learning",6,Finance,Music,"Biology, English",nontech,Business Analyst
+Tania,35,Diploma,"Public Speaking, Excel, C++, Communication",6,Healthcare,Drawing,"English, Chemistry, Biology, Physics",tech,Web Developer
+Karim,24,BA,"Machine Learning, Communication",4,Design,Drawing,"Biology, Chemistry, Physics",tech,Nurse
+Karim,25,Diploma,"Public Speaking, Leadership, Java, C++",2,AI,Gaming,"Biology, English",nontech,Mechanical Engineer
+Rafi,20,MA,"Communication, Leadership, SQL, Public Speaking, Data Analysis",2,Data Science,Gaming,"ICT, Math, Physics, English",tech,Nurse
+Rafi,35,MA,"SQL, Data Analysis, Machine Learning, Java, Leadership",4,Data Science,Photography,"English, ICT, Bangla, Physics",nontech,Data Scientist
+Amina,24,HSC,"Communication, Java, Data Analysis, Excel, Public Speaking",0,Teaching,Music,"Bangla, Chemistry, Biology",nontech,Nurse
+Sadia,18,BSc,"SQL, Communication",2,AI,Reading,"Physics, Biology, Economics",nontech,Teacher
+Nusrat,25,MSc,"Leadership, Excel, C++, Communication, Java",7,Web Development,Writing,"Bangla, ICT, Biology, Chemistry",nontech,Mechanical Engineer
+Nusrat,35,SSC,"Leadership, Machine Learning, Communication",9,Marketing,Photography,"Physics, Bangla",tech,AI Engineer
+Imran,19,BA,"Java, Machine Learning, Python",7,AI,Photography,"Math, ICT, English",tech,Teacher
+Nusrat,26,Diploma,"SQL, Public Speaking, Machine Learning, Data Analysis",6,Engineering,Drawing,"ICT, Biology, Economics",tech,Data Scientist
+Amina,25,Diploma,"Machine Learning, Java, Python, Leadership",7,Teaching,Music,"Chemistry, ICT, Physics, English",nontech,Digital Marketer
+Rahim,31,SSC,"Python, Leadership",7,Healthcare,Music,"Biology, Chemistry",nontech,Nurse
+Amina,34,MSc,"Data Analysis, Machine Learning, Excel, Java, Public Speaking",3,Data Science,Drawing,"Chemistry, ICT",nontech,Nurse
+Imran,28,Diploma,"Communication, Public Speaking, Java, Python, Leadership",8,Healthcare,Photography,"Economics, Physics, Math",tech,Business Analyst
+Imran,32,BA,"SQL, Communication, Python, Public Speaking",2,Design,Traveling,"Math, Economics",tech,Accountant
+Karim,22,SSC,"Excel, Public Speaking",7,Web Development,Reading,"Physics, ICT, English",tech,Data Scientist
+Amina,20,Diploma,"Machine Learning, SQL, Public Speaking, Communication",4,Data Science,Drawing,"ICT, Math",tech,Graphic Designer
+Nusrat,24,BSc,"Data Analysis, Leadership, Public Speaking",7,Marketing,Music,"Bangla, Biology",tech,Mechanical Engineer
+Hasan,30,HSC,"SQL, Data Analysis, Python, C++, Excel",6,Web Development,Gaming,"Economics, English, Biology, Chemistry",nontech,Web Developer
+Sadia,34,MSc,"Communication, Excel, Data Analysis, Java",4,Teaching,Reading,"Math, Economics",nontech,Nurse
+Karim,19,SSC,"Machine Learning, Python, SQL, Data Analysis",5,Healthcare,Reading,"ICT, Economics",tech,Nurse
+Hasan,35,HSC,"Machine Learning, Excel, Communication, SQL, Leadership",9,Business,Traveling,"ICT, English, Physics",tech,Graphic Designer
+Sadia,32,BSc,"SQL, Data Analysis",5,Engineering,Traveling,"Math, Chemistry",tech,Digital Marketer
+Tania,23,MSc,"Public Speaking, Java, Data Analysis",5,Teaching,Writing,"English, Math, Physics",tech,Digital Marketer
+Hasan,30,Diploma,"Machine Learning, Data Analysis, C++",6,AI,Music,"Physics, Chemistry, Biology, Economics",nontech,Mechanical Engineer
+Amina,25,BA,"Java, SQL, Python",4,Finance,Reading,"Chemistry, Economics, Biology, Physics",tech,Data Scientist
+Hasan,24,SSC,"Communication, Excel, Data Analysis",9,Healthcare,Reading,"Biology, Bangla, Physics",tech,Digital Marketer
+Rafi,22,MA,"C++, Leadership",5,Finance,Drawing,"English, Bangla, Math",nontech,Digital Marketer
+Nayeem,35,MA,"Leadership, Java, Public Speaking, SQL, Machine Learning",2,Marketing,Drawing,"Physics, Math, ICT, Economics",nontech,AI Engineer
+Rahim,23,HSC,"Machine Learning, Data Analysis",7,Teaching,Drawing,"Bangla, Economics, Biology, Physics",tech,Data Scientist
+Hasan,35,SSC,"Leadership, Communication, Public Speaking, Java",7,Finance,Gaming,"ICT, Physics, English",nontech,Mechanical Engineer
+Sadia,24,MSc,"Excel, SQL",5,Healthcare,Music,"ICT, Economics",tech,Business Analyst
+Karim,27,HSC,"SQL, C++, Leadership",10,Teaching,Gaming,"Bangla, Physics, Chemistry, Biology",nontech,Accountant
+Imran,25,MSc,"Python, Data Analysis",7,Finance,Music,"Economics, ICT",nontech,Digital Marketer
+Imran,22,BA,"Public Speaking, Python",2,Healthcare,Writing,"Physics, Chemistry",tech,Graphic Designer
+Imran,26,BSc,"Python, SQL, C++, Data Analysis, Machine Learning",8,Healthcare,Gaming,"Bangla, English",tech,AI Engineer
+Rahim,19,BA,"Machine Learning, Data Analysis, C++",10,Design,Music,"Bangla, Economics",tech,Accountant
+Imran,21,Diploma,"Machine Learning, SQL, C++, Leadership, Java",5,Healthcare,Writing,"Physics, Chemistry, Bangla",nontech,Data Scientist
+Sadia,29,SSC,"Excel, Python, SQL, Java, C++",1,Healthcare,Music,"Economics, Chemistry, Bangla, Math",nontech,AI Engineer
+Imran,18,SSC,"Public Speaking, SQL, Python",2,AI,Gaming,"Biology, Math, Physics",tech,Mechanical Engineer
+Sadia,31,Diploma,"Python, Machine Learning, Java, C++, SQL",6,Business,Traveling,"ICT, Bangla, Economics",nontech,Digital Marketer
+Imran,25,Diploma,"Excel, Java, Python, Leadership",2,Business,Writing,"ICT, Economics, Math",tech,AI Engineer
+Rafi,19,BA,"Public Speaking, Python",2,Business,Traveling,"Math, Chemistry, English",nontech,Web Developer
+Nusrat,18,Diploma,"Public Speaking, Excel",1,Teaching,Reading,"Math, Biology",tech,Teacher
+Rafi,26,MA,"C++, SQL, Machine Learning",6,Marketing,Photography,"Math, English, Chemistry, Economics",tech,Digital Marketer
+Nayeem,21,SSC,"C++, Data Analysis, Machine Learning",8,Teaching,Traveling,"Bangla, Economics",nontech,Business Analyst
+Rafi,20,MA,"Java, Communication, SQL, Data Analysis",9,Marketing,Reading,"Physics, Chemistry, Math, ICT",tech,Mechanical Engineer
+Sadia,35,MSc,"Java, C++, Python, Excel",3,Engineering,Music,"Physics, Biology, ICT, English",nontech,Business Analyst
+Tania,28,Diploma,"Communication, C++, SQL",6,Engineering,Traveling,"ICT, Physics, Biology",nontech,Digital Marketer
+Sadia,23,HSC,"Python, Communication, C++",0,Marketing,Music,"Biology, Economics, Bangla, Chemistry",tech,Nurse
+Tania,18,MSc,"C++, Data Analysis",10,Healthcare,Traveling,"English, Chemistry, Bangla",tech,Nurse
+Sadia,31,SSC,"Data Analysis, Java, C++, Leadership, Public Speaking",1,Web Development,Photography,"Economics, English, Biology, ICT",nontech,Mechanical Engineer
+Karim,29,MSc,"Communication, Excel",3,Finance,Traveling,"Bangla, Economics, ICT",tech,Data Scientist
+Tania,25,MSc,"Public Speaking, SQL",7,Design,Gaming,"ICT, Biology",tech,Mechanical Engineer
+Karim,18,MSc,"SQL, Java, Leadership, Machine Learning, C++",3,Teaching,Drawing,"English, Biology, Math, Bangla",tech,Data Scientist
+Nayeem,32,MA,"Communication, SQL, Java, Leadership, Machine Learning",9,Data Science,Drawing,"Bangla, Economics, Chemistry, Biology",tech,Accountant
+Tania,34,Diploma,"Excel, Public Speaking",0,Data Science,Gaming,"English, Chemistry, Biology",tech,Accountant
+Amina,31,MA,"SQL, Public Speaking, Data Analysis, Communication",9,Engineering,Drawing,"ICT, Physics",nontech,Nurse
+Hasan,25,SSC,"Communication, Python, Machine Learning, SQL, Leadership",7,Data Science,Gaming,"Chemistry, Economics, Biology, Bangla",tech,Accountant
+Karim,18,Diploma,"Public Speaking, Machine Learning, Leadership, Python",5,Data Science,Music,"Biology, English, Physics, Chemistry",nontech,Graphic Designer
+Imran,29,MA,"Machine Learning, Data Analysis, Public Speaking, Java, SQL",2,Marketing,Photography,"Chemistry, Economics",nontech,Digital Marketer
+Imran,22,BSc,"SQL, Excel, Java, Data Analysis, Leadership",7,Web Development,Writing,"ICT, Chemistry",tech,Teacher
+Hasan,19,BSc,"SQL, C++, Data Analysis, Python, Excel",2,Business,Photography,"English, ICT, Bangla",nontech,Teacher
+Karim,19,BSc,"Machine Learning, Python, Leadership, Communication, Java",6,Healthcare,Reading,"English, Bangla, Math, Chemistry",tech,Web Developer
+Nayeem,28,BSc,"Python, SQL, C++",5,Web Development,Traveling,"Bangla, ICT, Economics, English",tech,AI Engineer
+Sadia,35,SSC,"Machine Learning, SQL, Communication",2,Data Science,Gaming,"Physics, Math, Bangla, Economics",tech,Business Analyst
+Nayeem,35,BA,"Data Analysis, SQL, Machine Learning, Leadership",0,Business,Music,"Economics, Biology, ICT",tech,Data Scientist
+Tania,30,Diploma,"Leadership, Java, SQL, Python, Public Speaking",2,Marketing,Traveling,"Bangla, Math",nontech,Data Scientist
+Nusrat,28,BSc,"Java, SQL, Python, Excel, Data Analysis",0,Finance,Traveling,"Economics, Math, Physics, Biology",nontech,Graphic Designer
+Nusrat,24,Diploma,"Java, SQL, Leadership, Machine Learning, C++",2,Business,Traveling,"Physics, ICT",nontech,Business Analyst
+Hasan,28,SSC,"Python, Machine Learning",6,AI,Photography,"Physics, Math, Economics",nontech,Web Developer
+Nusrat,29,HSC,"Public Speaking, Leadership",0,Engineering,Gaming,"Biology, Bangla, Chemistry, Economics",nontech,Nurse
+Hasan,24,MSc,"Java, SQL, Machine Learning, Leadership",5,Teaching,Music,"Chemistry, Physics",nontech,Teacher
+Sadia,27,Diploma,"Excel, Machine Learning, Public Speaking",7,AI,Traveling,"Economics, Biology",tech,Nurse
+Karim,23,HSC,"Java, C++, Leadership, Communication",3,Healthcare,Reading,"Math, English, Economics",tech,Digital Marketer
+Rafi,27,SSC,"Machine Learning, Java, Leadership, Python",2,Business,Drawing,"Chemistry, Math",nontech,Data Scientist
+Tania,25,MA,"Public Speaking, Java",0,Healthcare,Writing,"ICT, Biology",tech,Mechanical Engineer
+Amina,23,Diploma,"Leadership, Public Speaking, Java, SQL",1,Finance,Photography,"Economics, Biology, Physics",tech,Business Analyst
+Imran,20,MSc,"Data Analysis, C++, Python",8,Finance,Photography,"ICT, Bangla",nontech,Mechanical Engineer
+Karim,21,HSC,"C++, Machine Learning, Excel",10,Healthcare,Music,"Math, Biology",tech,Accountant
+Karim,22,HSC,"Python, Leadership, C++, Public Speaking",9,Teaching,Traveling,"Physics, Biology, ICT, Math",nontech,Business Analyst
+Rahim,33,BSc,"Communication, Data Analysis, Java, Python, Excel",3,AI,Gaming,"English, Physics",nontech,Nurse
+Rahim,27,HSC,"Excel, Communication, C++",0,AI,Photography,"Chemistry, Bangla, Economics, ICT",tech,Web Developer
+Tania,22,BSc,"SQL, Java, Communication, Public Speaking",2,Healthcare,Traveling,"Math, Economics, Physics, Biology",tech,Digital Marketer
+Amina,25,HSC,"Machine Learning, Leadership, Communication, Python, Java",4,AI,Reading,"Economics, Math, Bangla, ICT",tech,Teacher
+Sadia,19,BSc,"SQL, Public Speaking, Java, Machine Learning, C++",2,Engineering,Reading,"Bangla, Economics, Physics",tech,Nurse
+Nayeem,35,SSC,"Machine Learning, Java, C++, Communication, SQL",4,AI,Gaming,"Math, Biology, Chemistry",tech,Accountant
+Rahim,32,SSC,"C++, SQL, Excel",2,Design,Drawing,"Bangla, Biology, Economics",tech,Graphic Designer
+Nusrat,33,SSC,"Excel, Machine Learning",2,Healthcare,Traveling,"Bangla, Physics, Economics, Math",nontech,Teacher
+Nusrat,34,BSc,"SQL, Leadership, Excel",0,Teaching,Reading,"Bangla, Biology, Math, ICT",tech,Mechanical Engineer
+Nusrat,34,MA,"Java, Public Speaking, Excel, Leadership",6,AI,Drawing,"Economics, ICT, Biology",nontech,Web Developer
+Rafi,27,MA,"SQL, Python, Machine Learning, C++",8,Finance,Writing,"Physics, Chemistry, Biology, Economics",nontech,Web Developer
+Imran,31,BSc,"Public Speaking, Machine Learning, C++",5,Finance,Music,"Math, Bangla, Physics, English",nontech,Nurse
+Tania,26,MA,"Excel, Python, C++, Leadership",8,Marketing,Drawing,"Chemistry, English",nontech,Teacher
+Sadia,30,Diploma,"SQL, Leadership, Java, Public Speaking",7,Healthcare,Gaming,"Biology, Economics, Chemistry",nontech,Web Developer
+Imran,33,BSc,"Python, Machine Learning, Public Speaking, Communication",8,Engineering,Writing,"Math, Economics",nontech,Web Developer
+Karim,30,MA,"Public Speaking, Machine Learning, Data Analysis, Excel",6,Data Science,Gaming,"Biology, ICT, Math, English",nontech,Digital Marketer
+Nusrat,24,HSC,"Java, Data Analysis, C++, Python, SQL",5,Data Science,Writing,"Economics, Bangla",tech,Business Analyst
+Sadia,19,SSC,"Machine Learning, Communication, Public Speaking",0,Healthcare,Drawing,"Math, Chemistry",tech,Graphic Designer
+Amina,23,BA,"C++, Machine Learning, Leadership, Excel",1,Data Science,Gaming,"ICT, Bangla",tech,Mechanical Engineer
+Tania,35,HSC,"Data Analysis, SQL",10,Healthcare,Writing,"English, Physics",tech,AI Engineer
+Hasan,24,SSC,"Python, Java, Public Speaking",4,Web Development,Writing,"Physics, Economics, Bangla, Biology",nontech,Graphic Designer
+Imran,20,HSC,"Communication, Public Speaking",2,Engineering,Writing,"Physics, Biology, Chemistry",nontech,Graphic Designer
+Amina,22,BSc,"C++, Machine Learning, Java",4,Data Science,Writing,"Math, English, Physics",nontech,AI Engineer
+Tania,32,SSC,"Java, Data Analysis, C++, Public Speaking, Python",6,AI,Music,"Bangla, Math",nontech,Data Scientist
+Hasan,33,HSC,"Leadership, Python, C++, Public Speaking",2,Marketing,Photography,"Physics, Math, Bangla",nontech,Digital Marketer
+Tania,33,HSC,"Data Analysis, Leadership, C++, Excel, Python",4,Healthcare,Drawing,"Bangla, Chemistry",nontech,AI Engineer
+Nayeem,30,HSC,"C++, Data Analysis, Python",6,Design,Traveling,"ICT, Math, English, Biology",tech,Teacher
+Karim,26,Diploma,"Public Speaking, Python, SQL, Leadership, Excel",6,Finance,Drawing,"Economics, Math, Bangla, Physics",tech,Data Scientist
+Rafi,23,Diploma,"Excel, Machine Learning",8,Web Development,Music,"English, Math",tech,Accountant
+Nusrat,26,Diploma,"C++, Leadership, SQL, Java",2,Engineering,Music,"Math, Biology, ICT",tech,Mechanical Engineer
+Nayeem,28,MA,"Data Analysis, SQL, Python",4,Data Science,Reading,"Math, English",tech,Web Developer
+Sadia,22,BSc,"Communication, Java, C++",6,Teaching,Gaming,"Math, Physics",nontech,Web Developer
+Karim,21,HSC,"Excel, SQL, Python, Leadership",2,Marketing,Traveling,"ICT, English, Economics, Math",nontech,Digital Marketer
+Hasan,20,Diploma,"Python, Java, SQL, Leadership, Public Speaking",3,Design,Reading,"Math, Chemistry, Biology",nontech,Mechanical Engineer
+Rafi,19,MA,"Python, SQL, Leadership, Machine Learning, Java",9,Business,Reading,"Bangla, ICT, Economics, Chemistry",nontech,Accountant
+Nayeem,19,MSc,"Communication, Python, Machine Learning",7,Marketing,Traveling,"Chemistry, Economics",tech,Nurse
+Nayeem,20,HSC,"SQL, Machine Learning, Public Speaking",4,Web Development,Photography,"ICT, English, Math, Physics",nontech,Data Scientist
+Karim,33,MA,"Excel, Python, SQL",4,Engineering,Reading,"Biology, English, Physics, ICT",tech,AI Engineer
+Karim,20,MSc,"Machine Learning, Python, Excel, Java",8,Finance,Traveling,"Physics, Biology",nontech,Mechanical Engineer
+Karim,33,BA,"Machine Learning, C++, Leadership, Java",5,Business,Drawing,"Physics, Chemistry, Biology, ICT",nontech,AI Engineer
+Imran,34,MA,"Machine Learning, SQL, Leadership, Public Speaking, Java",3,Teaching,Music,"Chemistry, Biology",nontech,Teacher
+Karim,19,Diploma,"C++, Communication",10,Web Development,Gaming,"English, Bangla",nontech,Nurse
+Sadia,33,SSC,"C++, Python, Machine Learning, SQL",1,Web Development,Reading,"Bangla, Math, Economics",nontech,Business Analyst
+Sadia,25,SSC,"Java, Python, SQL",1,Marketing,Music,"Physics, Chemistry, Math, Biology",tech,Data Scientist
+Tania,34,MA,"Machine Learning, SQL, C++",1,Engineering,Drawing,"Bangla, Physics, English",nontech,Web Developer
+Rafi,23,Diploma,"Leadership, Public Speaking",0,Marketing,Gaming,"Math, Physics, Bangla",nontech,Business Analyst
+Amina,27,HSC,"C++, Python, Java, SQL",4,Data Science,Writing,"ICT, English, Math, Bangla",tech,Business Analyst
+Imran,19,SSC,"Python, Leadership, C++, Communication",7,Data Science,Photography,"Chemistry, Physics, Biology, Bangla",nontech,Mechanical Engineer
+Nayeem,31,MA,"Python, Java, Data Analysis, Leadership",10,Design,Photography,"Chemistry, Biology, Economics, English",tech,Nurse
+Rafi,22,MSc,"Excel, C++",2,Design,Gaming,"Economics, Physics, ICT, Chemistry",nontech,Nurse
+Sadia,26,Diploma,"Public Speaking, C++, Java, Excel",3,Web Development,Drawing,"Math, Biology",nontech,Graphic Designer
+Amina,18,HSC,"SQL, Public Speaking, C++, Excel, Java",7,Teaching,Gaming,"Biology, Physics",nontech,AI Engineer
+Nusrat,23,BA,"Java, Python",0,Engineering,Reading,"Bangla, Chemistry",nontech,Accountant
+Nusrat,18,Diploma,"SQL, C++, Java, Python, Machine Learning",10,Healthcare,Writing,"English, Economics, Bangla, Biology",tech,Nurse
+Amina,33,SSC,"Python, SQL",8,Design,Reading,"Economics, ICT, Biology, Physics",tech,Mechanical Engineer
+Rahim,18,MSc,"Python, Public Speaking, Data Analysis, Communication, Machine Learning",8,Marketing,Writing,"Biology, Chemistry, Math",nontech,Web Developer
+Karim,32,BA,"Data Analysis, Python, C++, Excel",6,Web Development,Traveling,"Bangla, Chemistry",nontech,Web Developer
+Hasan,19,BA,"Leadership, Python, Excel, C++, Data Analysis",2,Business,Traveling,"Economics, Biology, Chemistry, Physics",nontech,Web Developer
+Imran,29,SSC,"Machine Learning, Data Analysis, C++",0,Engineering,Reading,"English, Math",nontech,Data Scientist
+Sadia,28,Diploma,"Data Analysis, SQL, C++",4,Healthcare,Photography,"Chemistry, Bangla, Math, English",nontech,Web Developer
+Imran,30,Diploma,"Communication, Python, SQL",1,Healthcare,Drawing,"ICT, Biology, Physics, Economics",nontech,Graphic Designer
+Tania,30,Diploma,"SQL, Java",4,Marketing,Traveling,"Math, Physics, Biology, ICT",tech,Nurse
+Nusrat,30,HSC,"SQL, Leadership, Python, Data Analysis, Machine Learning",4,Business,Music,"Physics, ICT, Math, Economics",nontech,Mechanical Engineer
+Tania,30,Diploma,"C++, Excel, Data Analysis, Java, Public Speaking",5,Business,Gaming,"Math, ICT, Chemistry, Economics",nontech,Teacher
+Karim,18,Diploma,"Leadership, SQL, Public Speaking, Data Analysis, Excel",0,Data Science,Writing,"Bangla, Biology, Economics, English",nontech,Graphic Designer
+Rahim,26,SSC,"C++, Data Analysis",2,Business,Drawing,"Math, ICT",tech,Digital Marketer
+Rafi,28,Diploma,"SQL, Excel, Leadership",5,Data Science,Photography,"Chemistry, Physics, Economics, Biology",tech,AI Engineer
+Amina,21,Diploma,"Communication, Leadership, Java, SQL, Data Analysis",9,Teaching,Reading,"Chemistry, Math, Economics, ICT",nontech,Mechanical Engineer
+Rafi,23,MA,"Python, Public Speaking, Excel, Java, C++",3,Healthcare,Photography,"Math, ICT, English, Bangla",nontech,Web Developer
+Rafi,30,BA,"Communication, Machine Learning, C++",1,Business,Photography,"English, Physics, Math, Chemistry",tech,Data Scientist
+Rafi,19,BSc,"C++, Leadership, Data Analysis",5,Finance,Photography,"Math, Chemistry, Physics, Bangla",tech,Mechanical Engineer
+Karim,22,Diploma,"SQL, Machine Learning, Leadership, Excel, Python",8,Design,Reading,"Chemistry, Economics",nontech,Business Analyst
+Nayeem,21,MSc,"Communication, Python, C++, SQL, Leadership",7,Business,Photography,"English, Physics, Chemistry",nontech,AI Engineer
+Sadia,32,MA,"C++, Public Speaking, Excel",2,Web Development,Photography,"Economics, ICT, Chemistry, English",nontech,Accountant
+Rahim,22,MSc,"Communication, Machine Learning, Data Analysis, Public Speaking, SQL",10,AI,Reading,"Bangla, ICT, Chemistry",nontech,AI Engineer
+Karim,23,HSC,"SQL, Data Analysis, Leadership",2,Business,Drawing,"Physics, ICT, Bangla, Math",tech,Digital Marketer
+Rahim,22,BA,"C++, Machine Learning",9,Data Science,Gaming,"English, Economics",nontech,Teacher
+Nusrat,24,BSc,"SQL, Python",9,Design,Gaming,"Economics, English, Biology",tech,Data Scientist
+Rahim,35,MSc,"Excel, Leadership, Data Analysis, Python",0,Design,Drawing,"Bangla, Chemistry",nontech,Nurse
+Rafi,20,HSC,"Java, SQL, Excel, C++",8,Healthcare,Traveling,"Physics, Math, Biology",tech,AI Engineer
+Rafi,25,Diploma,"Python, C++, SQL, Java",1,AI,Photography,"Chemistry, Math",tech,Data Scientist
+Karim,25,SSC,"Excel, Leadership",5,Healthcare,Traveling,"Chemistry, English, Economics",nontech,AI Engineer
+Karim,28,SSC,"SQL, Communication, Python, Excel",2,Business,Drawing,"ICT, Math",nontech,Graphic Designer
+Rahim,29,SSC,"Excel, Python, Machine Learning, Communication",9,Finance,Drawing,"Math, Chemistry, Biology",nontech,Nurse
+Nayeem,32,BSc,"Public Speaking, Java, SQL, Data Analysis",9,Design,Music,"Physics, Math, Biology, Bangla",nontech,Web Developer
+Nusrat,18,MSc,"SQL, Java, Python, Excel, Leadership",1,Engineering,Traveling,"Math, Economics, Chemistry",nontech,Web Developer
+Nayeem,29,MA,"C++, Excel",9,Design,Gaming,"Economics, ICT, Bangla",nontech,Accountant
+Tania,18,Diploma,"C++, Leadership, Excel, Machine Learning, Python",5,Finance,Gaming,"English, Physics, ICT",nontech,Data Scientist
+Amina,24,Diploma,"C++, Public Speaking",5,AI,Traveling,"Economics, Math, ICT",tech,Digital Marketer
+Hasan,18,SSC,"C++, Machine Learning, Communication",3,Marketing,Reading,"English, ICT",tech,AI Engineer
+Hasan,30,SSC,"Public Speaking, Python, Data Analysis, Leadership, Java",2,Teaching,Writing,"Economics, Physics, Biology",nontech,Data Scientist
+Nayeem,21,MA,"C++, Machine Learning, Python",1,Design,Drawing,"Math, Physics",nontech,Accountant
+Nusrat,32,BA,"Public Speaking, Excel, Machine Learning, Leadership",3,Engineering,Reading,"ICT, Physics, English, Bangla",nontech,Graphic Designer
+Karim,18,Diploma,"Communication, Data Analysis, Excel, Public Speaking, Machine Learning",7,Engineering,Gaming,"English, Math",tech,AI Engineer
+Nusrat,32,BA,"Data Analysis, Public Speaking, Machine Learning",4,Engineering,Drawing,"Physics, Chemistry, ICT",nontech,Graphic Designer
+Karim,23,HSC,"Excel, Java, Public Speaking",7,Business,Music,"Physics, Economics",tech,Graphic Designer
+Nusrat,23,Diploma,"Data Analysis, SQL, Excel, Machine Learning, Public Speaking",7,Design,Music,"Bangla, ICT",nontech,Business Analyst
+Imran,35,Diploma,"SQL, Communication, Excel, Python",10,Design,Music,"ICT, Math",nontech,Web Developer
+Sadia,24,MA,"SQL, Public Speaking, Python",8,AI,Drawing,"ICT, Physics, Biology",nontech,Accountant
+Rahim,25,MA,"Machine Learning, Leadership",8,Healthcare,Gaming,"Math, English, Physics, Chemistry",nontech,Data Scientist
+Amina,23,BA,"SQL, C++, Python, Data Analysis",4,Finance,Gaming,"English, ICT, Chemistry",nontech,Nurse
+Tania,18,Diploma,"Python, Excel",9,Healthcare,Traveling,"Biology, Physics, Bangla",nontech,Teacher
+Nusrat,32,SSC,"Leadership, Public Speaking",7,Business,Writing,"Math, Biology, English, ICT",tech,Web Developer
+Imran,23,SSC,"SQL, Communication",10,Teaching,Gaming,"Math, Economics, Physics",tech,Mechanical Engineer
+Nayeem,29,SSC,"Java, C++, Excel, SQL",0,Healthcare,Music,"Bangla, Math, Chemistry, Biology",tech,Business Analyst
+Rafi,23,MA,"Public Speaking, SQL, Python, Leadership",0,Engineering,Traveling,"Physics, Economics, ICT, Math",tech,AI Engineer
+Sadia,25,BSc,"C++, Leadership, Python, Communication, Machine Learning",10,AI,Music,"Math, Chemistry, Biology",tech,Nurse
+Nayeem,20,MA,"Public Speaking, Leadership, C++, Data Analysis",9,AI,Gaming,"Biology, Physics, ICT",tech,Mechanical Engineer
+Sadia,19,Diploma,"Leadership, C++, Public Speaking",9,Engineering,Reading,"Physics, Economics, Biology",nontech,Nurse
+Nayeem,32,SSC,"Excel, Python",9,Design,Traveling,"Bangla, Math, Biology",nontech,Accountant
+Rahim,34,BA,"Public Speaking, Excel, Machine Learning, Python, Communication",6,AI,Gaming,"Economics, ICT, Physics",tech,Teacher
+Nusrat,29,Diploma,"SQL, Public Speaking, Machine Learning",2,Teaching,Gaming,"Math, Physics",nontech,Data Scientist
+Rahim,33,HSC,"Machine Learning, SQL",9,Marketing,Drawing,"Physics, Chemistry",nontech,Nurse
+Karim,21,Diploma,"Public Speaking, Java",1,Engineering,Photography,"Math, Physics, Economics, English",nontech,Teacher
+Nayeem,24,BA,"Java, C++, Public Speaking",3,Finance,Music,"Chemistry, English, Economics",tech,Nurse
+Nayeem,34,Diploma,"Communication, Data Analysis, SQL, Machine Learning",7,Engineering,Music,"English, Biology, Physics, Math",tech,Accountant
+Nayeem,29,HSC,"Excel, Leadership, Java, Public Speaking",5,Design,Reading,"Biology, ICT, Chemistry, Economics",nontech,Graphic Designer
+Hasan,22,SSC,"Leadership, Communication",8,Marketing,Gaming,"ICT, English",nontech,Business Analyst
+Rahim,24,MSc,"C++, Leadership, Communication, SQL, Java",2,AI,Traveling,"Bangla, ICT, Physics",nontech,Mechanical Engineer
+Imran,22,Diploma,"Java, Leadership, Excel",7,Marketing,Reading,"English, Bangla, Chemistry",tech,Teacher
+Sadia,28,Diploma,"Public Speaking, Java, Machine Learning, Data Analysis, Communication",8,Finance,Photography,"ICT, English",nontech,Data Scientist
+Rahim,27,BSc,"C++, Machine Learning",10,Business,Traveling,"English, ICT, Math",nontech,Accountant
+Sadia,21,MSc,"Data Analysis, Machine Learning",1,Marketing,Reading,"English, Biology",tech,Accountant
+Rafi,33,MA,"SQL, Public Speaking, Java, C++",8,Data Science,Writing,"ICT, Math, Chemistry, English",nontech,Data Scientist
+Rafi,34,MA,"Excel, Data Analysis, Communication",7,AI,Reading,"English, Biology",tech,Web Developer
+Hasan,23,BA,"Data Analysis, Machine Learning",1,Design,Traveling,"Math, English, Physics",nontech,Accountant
+Rafi,33,SSC,"Communication, Leadership, Java, Public Speaking",7,Engineering,Writing,"Economics, Physics",nontech,Teacher
+Nayeem,22,Diploma,"Public Speaking, Communication, SQL, C++, Leadership",9,Design,Writing,"Biology, Chemistry, English",nontech,Web Developer
+Karim,25,Diploma,"Leadership, Java, Communication, Data Analysis, SQL",5,Healthcare,Gaming,"Economics, Bangla, Physics, Chemistry",tech,AI Engineer
+Amina,19,Diploma,"Data Analysis, C++",0,Web Development,Gaming,"Economics, Chemistry, Bangla, Physics",nontech,Accountant
+Tania,24,BSc,"C++, Java, Excel, Machine Learning",1,Finance,Photography,"Chemistry, Economics",tech,Mechanical Engineer
+Karim,20,BSc,"Excel, SQL, Java, Public Speaking",8,Teaching,Gaming,"Physics, Economics",nontech,Nurse
+Amina,22,BA,"Leadership, Communication",0,Business,Music,"English, Bangla, Economics, Chemistry",nontech,Data Scientist
+Hasan,27,Diploma,"Public Speaking, Machine Learning",1,Healthcare,Photography,"Biology, Bangla",nontech,Graphic Designer
+Karim,34,MA,"Java, Public Speaking, C++",9,Design,Reading,"ICT, Biology, Physics",nontech,AI Engineer
+Nusrat,27,HSC,"Python, Data Analysis, Excel",10,AI,Photography,"Math, Chemistry, ICT",tech,Nurse
+Rahim,32,BSc,"Public Speaking, SQL",9,Finance,Drawing,"Biology, Economics",tech,Data Scientist
+Karim,26,BA,"C++, Excel, Python, SQL, Leadership",6,AI,Writing,"Biology, Physics, ICT, Bangla",tech,AI Engineer
+Rahim,28,HSC,"C++, Leadership, Python, Machine Learning, Excel",0,Teaching,Writing,"Biology, Math, ICT, Chemistry",nontech,Nurse
+Sadia,25,MSc,"Leadership, Machine Learning, Excel, Python",5,Healthcare,Photography,"Bangla, Chemistry, Biology",nontech,AI Engineer
+Tania,30,MSc,"Python, Java",9,Teaching,Music,"Economics, Bangla, ICT",nontech,Digital Marketer
+Karim,35,MSc,"C++, Data Analysis, Public Speaking, Machine Learning",3,Business,Traveling,"English, Biology, Physics, Economics",nontech,Business Analyst
+Karim,22,BA,"Public Speaking, C++, Excel, Data Analysis, Machine Learning",0,Business,Photography,"Physics, Math, Biology, Bangla",nontech,Digital Marketer
+Sadia,29,Diploma,"Data Analysis, Excel, Communication, Python",4,Design,Traveling,"Bangla, English",nontech,Graphic Designer
+Rafi,20,SSC,"Public Speaking, C++, Leadership, Python",1,Teaching,Photography,"Math, Biology, Economics",tech,Mechanical Engineer
+Amina,25,MA,"Data Analysis, C++, Public Speaking",0,Design,Drawing,"Physics, Economics, Biology",nontech,Graphic Designer
+Sadia,25,MSc,"SQL, C++, Excel",8,Data Science,Reading,"ICT, Bangla, Biology, Physics",nontech,Nurse
+Rahim,18,BSc,"Python, Excel, Data Analysis, Machine Learning, SQL",7,Engineering,Reading,"Economics, English, Chemistry",tech,Mechanical Engineer
+Nayeem,28,SSC,"Excel, SQL, Communication, Leadership",4,Engineering,Gaming,"Biology, Math",tech,Nurse
+Nayeem,21,MSc,"Machine Learning, Data Analysis, Communication, Leadership, Java",6,AI,Drawing,"Biology, Economics, English, ICT",nontech,Graphic Designer
+Imran,26,Diploma,"SQL, Python",3,Teaching,Gaming,"Physics, Chemistry, ICT",tech,Teacher
+Nusrat,24,HSC,"Machine Learning, Excel",3,Marketing,Photography,"Biology, English, Chemistry",tech,Mechanical Engineer
+Amina,29,Diploma,"Python, Communication, Data Analysis",10,Marketing,Traveling,"Chemistry, Physics",nontech,Nurse
+Rahim,29,HSC,"Leadership, Data Analysis",9,AI,Traveling,"Physics, ICT",tech,Teacher
+Hasan,30,SSC,"Communication, C++, SQL, Java",1,Healthcare,Writing,"Bangla, Math, Chemistry",tech,Accountant
+Karim,21,HSC,"Excel, Java, Machine Learning, Python",0,Healthcare,Writing,"Bangla, Economics",nontech,Graphic Designer
+Nayeem,19,SSC,"Java, Leadership, Machine Learning",1,Web Development,Photography,"Chemistry, Biology",tech,Nurse
+Nusrat,26,MSc,"Public Speaking, Leadership",7,AI,Drawing,"Chemistry, English, ICT, Economics",nontech,AI Engineer
+Rahim,28,MA,"Data Analysis, SQL",0,Design,Traveling,"Biology, Bangla, ICT, Math",tech,Mechanical Engineer
+Karim,34,BSc,"Public Speaking, C++, Communication",1,Design,Photography,"Bangla, Biology, ICT, English",nontech,AI Engineer
+Karim,22,BA,"Python, SQL, Excel",9,Finance,Gaming,"Math, ICT",tech,Data Scientist
+Tania,29,BSc,"Java, Data Analysis, Excel",1,Business,Photography,"Math, Physics, Bangla",tech,Mechanical Engineer
+Rafi,33,MA,"SQL, Java, Public Speaking, C++",10,AI,Traveling,"Math, English",tech,Nurse
+Nayeem,33,BA,"C++, Public Speaking, SQL, Leadership, Machine Learning",10,Healthcare,Gaming,"Math, Bangla",tech,Teacher
+Hasan,29,SSC,"Excel, Machine Learning, Python, Java",4,Finance,Photography,"Economics, ICT",tech,Graphic Designer
+Amina,28,SSC,"Leadership, SQL",7,Healthcare,Photography,"ICT, Physics, Math, Chemistry",tech,Web Developer
+Karim,22,BA,"Python, Excel, Leadership, SQL, Communication",8,Teaching,Music,"Chemistry, Biology, Physics, Math",nontech,Graphic Designer
+Rafi,32,HSC,"Excel, SQL, Leadership",7,Design,Drawing,"Physics, Economics, English, Math",tech,Business Analyst
+Rahim,22,BA,"SQL, Java, Machine Learning",0,Engineering,Photography,"Economics, ICT, Math, Physics",nontech,Teacher
+Nusrat,32,BSc,"Machine Learning, Excel, Data Analysis, Communication",7,AI,Music,"Bangla, ICT, Economics, Chemistry",nontech,Business Analyst
+Rafi,25,BA,"Excel, Data Analysis",9,Web Development,Music,"English, Economics, Bangla",nontech,Data Scientist
+Rafi,21,BA,"Leadership, C++, Communication, Python",4,Teaching,Reading,"Economics, Biology, Chemistry, Math",nontech,Mechanical Engineer
+Imran,21,HSC,"Data Analysis, Public Speaking, Python, Excel",5,Engineering,Reading,"Biology, Economics",tech,Graphic Designer
+Rahim,35,HSC,"Java, Python, Communication",10,Business,Traveling,"Biology, Bangla, Chemistry, Physics",nontech,Business Analyst
+Karim,24,MA,"Java, C++",8,Business,Drawing,"Biology, Math, Bangla, English",tech,Teacher
+Tania,23,HSC,"Leadership, Excel, Data Analysis",0,AI,Music,"Physics, ICT",tech,Teacher
+Tania,29,SSC,"Data Analysis, Python, SQL, Excel",10,Data Science,Photography,"Bangla, Chemistry, Math",nontech,Mechanical Engineer
+Amina,18,BA,"Public Speaking, Communication, Java, Excel",6,Data Science,Gaming,"Chemistry, ICT, Math, English",nontech,Teacher
+Nayeem,24,Diploma,"Machine Learning, Leadership, Excel",3,Marketing,Gaming,"Chemistry, Math",tech,Mechanical Engineer
+Karim,32,Diploma,"SQL, C++, Java",9,Business,Writing,"English, Biology",tech,AI Engineer
+Hasan,21,HSC,"Communication, Public Speaking",1,AI,Traveling,"Math, Chemistry, Physics",tech,Mechanical Engineer
+Nayeem,28,MSc,"Machine Learning, Communication",7,Data Science,Reading,"Chemistry, English",nontech,Mechanical Engineer
+Karim,32,HSC,"C++, Data Analysis, Java, Public Speaking",8,Teaching,Writing,"Bangla, Economics, Biology",nontech,Teacher
+Tania,18,BSc,"SQL, Excel",7,Healthcare,Writing,"Physics, Economics, Bangla, English",tech,Business Analyst
+Rahim,30,BSc,"Communication, Public Speaking",6,Web Development,Traveling,"English, Math",tech,Nurse
+Sadia,22,Diploma,"C++, Python, Leadership, Data Analysis, Excel",8,Teaching,Traveling,"Bangla, Chemistry, Economics",nontech,Data Scientist
+Nusrat,29,BSc,"Communication, Data Analysis, Machine Learning, Python",9,Data Science,Reading,"Physics, Math, Chemistry, ICT",tech,Digital Marketer
+Imran,27,HSC,"SQL, Python, Data Analysis, Excel, Public Speaking",0,Design,Music,"Bangla, Economics, English",tech,AI Engineer
+Rafi,30,Diploma,"Data Analysis, C++, Python, Leadership, Machine Learning",10,Marketing,Writing,"Economics, Physics, Chemistry, English",nontech,Mechanical Engineer
+Imran,29,SSC,"Data Analysis, Leadership, Public Speaking, Communication",7,Teaching,Reading,"Physics, Biology",tech,Teacher
+Amina,18,BSc,"Machine Learning, Excel, Leadership, Communication, Python",0,Web Development,Reading,"Math, Economics, Physics",nontech,Business Analyst
+Sadia,25,MSc,"Machine Learning, Java, Leadership",3,Web Development,Drawing,"English, ICT, Biology, Chemistry",tech,Accountant
+Hasan,19,SSC,"Python, Public Speaking, Communication",1,Teaching,Reading,"Physics, Math, Economics",nontech,Web Developer
+Nusrat,26,BSc,"Excel, Machine Learning, Data Analysis",8,AI,Reading,"English, Math, Economics, Physics",tech,Teacher
+Karim,29,BA,"Excel, Data Analysis",6,Marketing,Music,"Economics, ICT, English",nontech,Mechanical Engineer
+Rahim,20,SSC,"C++, Excel, Communication",0,Marketing,Reading,"Math, Biology",nontech,AI Engineer
+Rahim,31,BA,"C++, Data Analysis, Java, Public Speaking",4,Marketing,Reading,"Bangla, English, Physics, Economics",tech,Nurse
+Nayeem,35,MSc,"Data Analysis, Communication, Java, Python, C++",9,Data Science,Drawing,"Biology, ICT, English, Math",tech,Web Developer
+Nusrat,28,HSC,"Communication, Excel, Python",4,AI,Music,"Physics, Biology",nontech,Digital Marketer
+Nusrat,27,BSc,"Machine Learning, Public Speaking, Java, Leadership, Data Analysis",1,Engineering,Writing,"Economics, Chemistry, English, Biology",tech,Nurse
+Tania,34,Diploma,"SQL, Python, Leadership, Data Analysis, Communication",4,Design,Traveling,"ICT, Economics",nontech,Nurse
+Rafi,21,MSc,"Machine Learning, Excel",1,Marketing,Writing,"Bangla, Math, ICT, Chemistry",tech,Data Scientist
+Rafi,26,SSC,"Excel, Communication",1,Teaching,Reading,"Math, Biology, Chemistry",nontech,Digital Marketer
+Tania,29,MA,"Communication, Java, Python, Excel, SQL",5,Design,Writing,"Chemistry, Math",nontech,Web Developer
+Karim,33,BA,"Machine Learning, Leadership, Excel, Python, C++",6,Business,Writing,"Bangla, ICT, Chemistry, Economics",tech,AI Engineer
+Karim,29,HSC,"C++, Leadership, Excel, Public Speaking",4,Design,Writing,"Math, Physics",tech,Nurse
+Imran,28,HSC,"Communication, Excel",1,Healthcare,Writing,"Biology, Physics",nontech,Digital Marketer
+Rafi,28,Diploma,"Java, Public Speaking, C++, Machine Learning",4,Business,Drawing,"Chemistry, English, Physics, Economics",nontech,Mechanical Engineer
+Hasan,20,Diploma,"Data Analysis, Public Speaking, Communication, SQL",0,Design,Music,"Economics, Math, English, Bangla",tech,AI Engineer
+Sadia,25,Diploma,"Leadership, Machine Learning, Python, SQL",10,Data Science,Reading,"Chemistry, Math, English, Bangla",tech,Data Scientist
+Hasan,18,Diploma,"Python, SQL, Java",0,Marketing,Music,"Biology, English",nontech,Nurse
+Rafi,19,BSc,"Excel, Public Speaking, Machine Learning",5,Data Science,Traveling,"Chemistry, Physics",tech,Graphic Designer
+Nusrat,33,BA,"Python, Communication, C++, SQL",7,Data Science,Music,"Physics, English",tech,Digital Marketer
+Nusrat,23,MSc,"SQL, Data Analysis",7,Engineering,Writing,"Chemistry, Bangla, ICT, Physics",nontech,Accountant
+Tania,19,BA,"Public Speaking, Python",4,Design,Traveling,"English, Economics",tech,AI Engineer
+Tania,22,HSC,"Public Speaking, C++",9,Web Development,Writing,"Math, Economics, English",tech,Graphic Designer
+Rahim,33,MA,"Leadership, Excel",7,Finance,Gaming,"English, Economics, Physics",tech,Mechanical Engineer
+Sadia,35,HSC,"SQL, Excel",4,Marketing,Reading,"Physics, English, Chemistry",nontech,Graphic Designer
+Hasan,28,BA,"C++, Public Speaking, SQL, Machine Learning, Communication",2,Engineering,Photography,"Bangla, English, ICT",nontech,Data Scientist
+Imran,30,MA,"SQL, Data Analysis, Communication",4,Design,Writing,"ICT, Chemistry, English",nontech,Accountant
+Nusrat,30,MSc,"Excel, Data Analysis, Communication, C++, Python",4,Business,Drawing,"Chemistry, Physics, Biology",nontech,Digital Marketer
+Nayeem,25,BSc,"C++, Public Speaking",7,Engineering,Photography,"Economics, Chemistry",tech,Teacher
+Hasan,31,SSC,"C++, Public Speaking",1,Business,Traveling,"Physics, Biology, Math, Economics",tech,AI Engineer
+Nusrat,18,Diploma,"Leadership, C++, Excel",8,Engineering,Reading,"Biology, Economics, ICT",nontech,Nurse
+Amina,22,Diploma,"Python, C++, Machine Learning, Data Analysis, Excel",6,Business,Drawing,"Biology, ICT, Math, Bangla",nontech,Digital Marketer
+Sadia,22,SSC,"Excel, Machine Learning, Python, Public Speaking, Leadership",2,AI,Writing,"Math, ICT",tech,Mechanical Engineer
+Tania,28,SSC,"Data Analysis, Java",9,Business,Photography,"English, Physics, ICT",tech,Web Developer
+Hasan,28,SSC,"Leadership, Excel, SQL, Machine Learning, C++",9,Business,Reading,"Physics, Chemistry, Economics, ICT",nontech,Accountant
+Tania,22,BA,"Python, Machine Learning, Java, SQL",9,Healthcare,Photography,"Chemistry, Math, Biology",tech,AI Engineer
+Hasan,27,Diploma,"Java, Excel, C++",9,Healthcare,Drawing,"Chemistry, Economics, Biology",tech,Data Scientist
+Nayeem,26,BA,"Data Analysis, Machine Learning, Communication, SQL",4,Design,Photography,"Math, Chemistry",nontech,Business Analyst
+Nayeem,30,BSc,"Machine Learning, Public Speaking, Python",0,Teaching,Music,"ICT, English, Economics, Biology",tech,Web Developer
+Karim,23,BSc,"Public Speaking, Python, Leadership, Java",0,Finance,Photography,"English, Chemistry, Biology",nontech,Data Scientist
+Rahim,19,HSC,"Machine Learning, Data Analysis, Communication",9,AI,Reading,"ICT, Physics, Bangla",tech,Teacher
+Hasan,20,SSC,"Communication, Public Speaking, Data Analysis",5,Teaching,Reading,"Biology, Math, English, ICT",nontech,Data Scientist
+Imran,33,MSc,"Data Analysis, Machine Learning",7,Design,Traveling,"Physics, Chemistry",nontech,Graphic Designer
+Karim,29,Diploma,"Excel, Machine Learning, Leadership",2,Web Development,Writing,"Physics, Biology, English, ICT",tech,Business Analyst
+Imran,23,SSC,"Excel, Python",5,Business,Drawing,"ICT, English, Biology",nontech,Teacher
+Sadia,27,MA,"SQL, Communication",3,Finance,Gaming,"Bangla, ICT, Biology",nontech,Business Analyst
+Nayeem,28,MSc,"Communication, C++, Machine Learning",10,Design,Reading,"Chemistry, ICT, Math, Bangla",nontech,Web Developer
+Hasan,29,MA,"Python, SQL, Java",6,Design,Gaming,"Math, English, Economics, Physics",tech,Teacher
+Rahim,20,MA,"Excel, Machine Learning, Java, C++",9,Teaching,Photography,"Physics, English, Economics, Bangla",tech,Digital Marketer
+Nusrat,31,BSc,"Python, SQL, Data Analysis, Public Speaking, C++",7,Engineering,Traveling,"Biology, ICT",tech,Graphic Designer
+Karim,19,Diploma,"C++, Communication, SQL, Java, Leadership",8,Engineering,Gaming,"Bangla, Chemistry",tech,Nurse
+Rahim,29,MSc,"Public Speaking, Python, Data Analysis, Excel, SQL",4,Engineering,Reading,"Bangla, English, Chemistry",nontech,AI Engineer
+Imran,27,BSc,"Public Speaking, Leadership",0,Teaching,Traveling,"Bangla, Biology",nontech,Accountant
+Nusrat,35,HSC,"Machine Learning, Java",8,AI,Drawing,"ICT, Physics, Bangla, English",nontech,AI Engineer
+Karim,23,BA,"C++, Python",6,Finance,Photography,"English, ICT, Biology",nontech,Digital Marketer
+Rafi,20,Diploma,"Public Speaking, C++, SQL, Communication, Python",10,Data Science,Writing,"Economics, Math, English, Biology",tech,Business Analyst
+Rahim,21,BSc,"Data Analysis, Java, Communication, Leadership",9,Design,Writing,"Physics, Biology",nontech,Data Scientist
+Amina,26,MA,"Machine Learning, Leadership",7,Business,Drawing,"Economics, Biology",nontech,Nurse
+Karim,24,Diploma,"Data Analysis, Communication, Leadership, Public Speaking, Excel",5,Teaching,Writing,"Chemistry, English, Physics",tech,Digital Marketer
+Imran,24,BA,"Java, Leadership, SQL",0,Web Development,Reading,"Chemistry, Math, English, Physics",nontech,Teacher
+Tania,27,HSC,"Public Speaking, Communication, Data Analysis, Excel",9,AI,Gaming,"ICT, Chemistry, English",tech,Nurse
+Sadia,32,Diploma,"Python, Public Speaking, Communication, Leadership, Java",5,Business,Music,"Chemistry, English, Economics",nontech,Data Scientist
+Nusrat,23,MSc,"Java, C++, Communication",4,AI,Drawing,"Biology, Chemistry, Physics",nontech,Accountant
+Amina,23,SSC,"Public Speaking, Leadership, Java, SQL, Python",2,Web Development,Photography,"Math, Physics",nontech,Accountant
+Nayeem,30,HSC,"Communication, Data Analysis, Python, Public Speaking",7,Business,Drawing,"Physics, Economics",tech,Web Developer
+Karim,33,HSC,"Machine Learning, Excel, Public Speaking, SQL, Leadership",7,Engineering,Gaming,"Chemistry, ICT, English, Biology",tech,AI Engineer
+Imran,28,HSC,"C++, Python, Leadership, Machine Learning, Java",4,Marketing,Drawing,"Math, ICT, Bangla",nontech,AI Engineer
+Rahim,19,SSC,"Communication, SQL, Python, Public Speaking",1,Web Development,Traveling,"Physics, Biology, ICT",nontech,Web Developer
+Rahim,29,Diploma,"Java, SQL, Excel, Communication, Data Analysis",1,Data Science,Reading,"Chemistry, Physics, English, Bangla",nontech,Accountant
+Nusrat,29,SSC,"C++, Leadership, Java, Communication, Excel",10,Finance,Traveling,"Biology, Economics, English, Chemistry",tech,Accountant
+Nusrat,31,BSc,"Public Speaking, Excel, Leadership, SQL, Java",1,Engineering,Writing,"Math, Physics, Bangla, Economics",tech,Data Scientist
+Nayeem,34,Diploma,"Machine Learning, Excel, Leadership",8,Business,Drawing,"Physics, Chemistry, Economics, English",nontech,AI Engineer
+Imran,24,HSC,"Python, Java",4,Finance,Music,"Biology, Economics, Math",nontech,Business Analyst
+Sadia,28,MSc,"Public Speaking, Java",10,Data Science,Music,"Bangla, Biology",tech,Data Scientist
+Sadia,28,Diploma,"Python, Public Speaking, Java, Communication, Machine Learning",8,Data Science,Photography,"Chemistry, Biology, English, Physics",nontech,Web Developer
+Sadia,35,HSC,"Python, Data Analysis, Communication, Java, SQL",4,Healthcare,Photography,"Biology, Bangla, Math, Economics",tech,Nurse
+Nayeem,18,BA,"Communication, Excel",10,AI,Drawing,"Math, Chemistry, English, Biology",nontech,AI Engineer
+Nayeem,31,MA,"SQL, Python, Machine Learning, C++, Communication",4,Data Science,Gaming,"Math, ICT, English",nontech,Data Scientist
+Rahim,30,BSc,"Machine Learning, Public Speaking, C++, Data Analysis, Excel",6,Web Development,Writing,"Physics, Bangla, English",nontech,AI Engineer
+Nayeem,30,HSC,"Python, Communication, Excel, SQL",9,Design,Drawing,"Biology, ICT",nontech,Data Scientist
+Rafi,28,BSc,"Machine Learning, Excel, Public Speaking, SQL, Java",10,Marketing,Drawing,"Economics, Biology, Chemistry, ICT",tech,Business Analyst
+Rafi,18,BA,"Excel, Leadership",6,Healthcare,Writing,"Math, Economics, Bangla",tech,Graphic Designer
+Hasan,30,Diploma,"SQL, Leadership, Python",9,AI,Drawing,"ICT, Physics, Math, Biology",nontech,Graphic Designer
+Amina,21,HSC,"Excel, Leadership, Java",2,Marketing,Traveling,"Biology, Bangla, Chemistry",tech,AI Engineer
+Karim,19,SSC,"Excel, Java, Data Analysis, Communication, Public Speaking",3,Engineering,Traveling,"ICT, English",tech,Graphic Designer
+Karim,25,BA,"Data Analysis, Machine Learning, Python, Excel",9,Engineering,Writing,"Math, ICT",nontech,AI Engineer
+Karim,21,BA,"Data Analysis, Communication",7,Web Development,Gaming,"Physics, Biology, Chemistry, English",nontech,Web Developer
+Sadia,19,Diploma,"Communication, Machine Learning, Excel, Public Speaking, Data Analysis",1,Business,Writing,"Chemistry, English",tech,Business Analyst
+Nayeem,19,BSc,"Excel, SQL, Java",2,Business,Traveling,"Economics, Chemistry, Math, Biology",tech,Mechanical Engineer
+Rafi,35,Diploma,"Python, Leadership, Public Speaking, Excel, Machine Learning",3,Business,Traveling,"ICT, Math, English, Bangla",nontech,Data Scientist
+Hasan,18,MSc,"C++, Excel",3,Marketing,Traveling,"Biology, Bangla",nontech,Graphic Designer
+Nayeem,18,MA,"Machine Learning, SQL, Communication",10,AI,Drawing,"ICT, Economics, Bangla",nontech,Graphic Designer
+Nayeem,28,HSC,"C++, Machine Learning",2,Healthcare,Photography,"Bangla, Economics, Physics, English",nontech,Data Scientist
+Rahim,30,Diploma,"Data Analysis, SQL",9,Healthcare,Reading,"Economics, Chemistry, Math",nontech,Graphic Designer
+Hasan,34,BSc,"Data Analysis, Leadership, Java, Excel, Python",8,Web Development,Music,"English, ICT, Bangla, Economics",tech,Data Scientist
+Tania,29,Diploma,"Communication, C++",3,Teaching,Gaming,"Physics, Math, Bangla, English",nontech,Teacher
+Sadia,29,MSc,"Public Speaking, Data Analysis",6,Healthcare,Traveling,"Bangla, ICT, Chemistry",tech,Data Scientist
+Amina,20,BA,"Leadership, Communication",7,AI,Gaming,"Economics, Biology, ICT",tech,Graphic Designer
+Rafi,23,HSC,"Leadership, Excel, Python, Communication, Data Analysis",9,Finance,Music,"ICT, Math",tech,Accountant
+Rafi,32,BA,"Excel, Java, C++",6,Finance,Drawing,"English, Physics, Biology",nontech,Business Analyst
+Imran,35,MA,"SQL, C++",6,Healthcare,Traveling,"Chemistry, Economics",tech,Nurse
+Rafi,26,BSc,"Machine Learning, SQL, Java",6,Business,Photography,"Biology, Chemistry, Economics",tech,Web Developer
+Nayeem,34,Diploma,"Communication, C++, Python",8,Design,Traveling,"Economics, Chemistry, English",nontech,Business Analyst
+Amina,23,MA,"SQL, Leadership, Data Analysis, Excel",10,Data Science,Drawing,"Biology, Math",nontech,Data Scientist
+Amina,33,MA,"Leadership, Excel",5,Healthcare,Writing,"Math, Biology, Chemistry",tech,Accountant
+Amina,33,HSC,"Communication, Public Speaking, Data Analysis, Machine Learning",10,Finance,Photography,"Chemistry, English",tech,Teacher
+Hasan,24,Diploma,"Data Analysis, Machine Learning, Excel",6,Marketing,Music,"Math, Physics",tech,Accountant
+Nusrat,26,Diploma,"SQL, C++, Public Speaking",6,Healthcare,Reading,"Physics, Math, Biology, Economics",tech,Nurse
+Rahim,24,BA,"Python, Data Analysis, Leadership, C++, SQL",8,Data Science,Music,"Physics, Chemistry, English",tech,Web Developer
+Rahim,21,BA,"Leadership, Public Speaking, Machine Learning, Java, Data Analysis",2,Design,Gaming,"Chemistry, Economics",nontech,Accountant
+Karim,27,BSc,"Machine Learning, Excel, Leadership",7,AI,Photography,"Chemistry, Biology",tech,Graphic Designer
+Nayeem,31,BA,"Machine Learning, Public Speaking, SQL, Java, Leadership",5,Teaching,Gaming,"Economics, Math",nontech,Teacher
+Amina,30,BSc,"Python, Machine Learning",4,Data Science,Writing,"Physics, Chemistry, Economics",nontech,Teacher
+Imran,29,SSC,"Data Analysis, Machine Learning, Public Speaking",5,Healthcare,Reading,"ICT, English, Biology, Economics",nontech,Data Scientist
+Hasan,33,MSc,"SQL, Java",10,Data Science,Gaming,"English, Physics",tech,Digital Marketer
+Rafi,22,Diploma,"Data Analysis, Public Speaking, Leadership",8,Healthcare,Music,"Biology, Math",tech,Mechanical Engineer
+Sadia,34,SSC,"Machine Learning, Data Analysis, Excel",10,Design,Writing,"ICT, Chemistry, Economics",nontech,Accountant
+Karim,19,MA,"Machine Learning, C++, SQL, Communication",7,Finance,Music,"Physics, English",tech,Nurse
+Nusrat,35,SSC,"Leadership, Communication, Excel, SQL",6,AI,Music,"English, Bangla",tech,Digital Marketer
+Rafi,28,MA,"Machine Learning, Leadership, C++",9,AI,Photography,"Bangla, Chemistry",tech,Accountant
+Tania,20,HSC,"Communication, SQL, Data Analysis, Machine Learning",10,Healthcare,Reading,"Biology, Physics, Math",tech,Data Scientist
+Imran,26,MSc,"SQL, Data Analysis, C++, Excel, Java",7,Design,Gaming,"Chemistry, Biology, ICT",nontech,Nurse
+Hasan,32,BSc,"Leadership, C++, Java, Data Analysis",4,AI,Reading,"ICT, Bangla, Chemistry, Economics",nontech,Mechanical Engineer
+Hasan,26,HSC,"Leadership, SQL, Excel",7,Healthcare,Photography,"ICT, Math, Bangla",nontech,Data Scientist
+Hasan,34,BSc,"Data Analysis, Communication, Leadership, C++, Python",10,AI,Reading,"Math, Biology, Physics",nontech,AI Engineer
+Nayeem,33,BA,"Machine Learning, Python, C++, Communication",4,Finance,Photography,"ICT, English, Physics, Economics",tech,Digital Marketer
+Amina,20,Diploma,"Leadership, Java",5,Teaching,Photography,"ICT, Physics, Chemistry",tech,Business Analyst
+Rafi,21,MA,"C++, Excel",7,Data Science,Reading,"Biology, Chemistry",nontech,Teacher
+Tania,25,Diploma,"Machine Learning, SQL",1,Engineering,Photography,"Math, Chemistry, Physics, ICT",nontech,Teacher
+Hasan,21,BSc,"Leadership, Communication, Machine Learning",4,Business,Drawing,"Bangla, Physics",nontech,Teacher
+Hasan,25,BSc,"Leadership, C++, Python, Excel, Public Speaking",3,Healthcare,Drawing,"ICT, Economics, Physics",tech,Mechanical Engineer
+Nusrat,30,BA,"Excel, Communication, Python",9,Healthcare,Photography,"Math, Physics",nontech,Data Scientist
+Sadia,32,MSc,"SQL, Data Analysis",1,Data Science,Reading,"Physics, Chemistry, Biology, Math",nontech,Nurse
+Rafi,20,BSc,"Communication, SQL",4,Web Development,Traveling,"Chemistry, Physics, ICT",tech,AI Engineer
+Amina,33,HSC,"Leadership, Java, Public Speaking",10,Design,Gaming,"Economics, Bangla, Chemistry, Biology",tech,Mechanical Engineer
+Rafi,21,BSc,"Leadership, Public Speaking, Python, Data Analysis, C++",6,AI,Drawing,"Economics, Physics, Bangla",tech,Data Scientist
+Karim,29,MA,"Excel, Data Analysis, C++, Communication",6,Teaching,Traveling,"ICT, Economics, Bangla, English",tech,Data Scientist
+Nusrat,27,SSC,"Communication, Java",5,Web Development,Gaming,"Physics, English",nontech,Mechanical Engineer
+Rafi,29,SSC,"Java, Public Speaking",6,Finance,Traveling,"Chemistry, Bangla",tech,Teacher
+Karim,22,MA,"Public Speaking, Communication, Leadership",1,Teaching,Gaming,"Chemistry, Economics",tech,Business Analyst
+Rafi,26,Diploma,"Communication, Machine Learning, SQL",10,Teaching,Gaming,"ICT, Economics",nontech,Accountant
+Rahim,23,HSC,"Public Speaking, Data Analysis",3,Healthcare,Music,"ICT, Physics, Math, Bangla",tech,AI Engineer
+Rafi,31,SSC,"Leadership, Data Analysis",5,Healthcare,Drawing,"Biology, ICT, Chemistry",tech,Teacher
+Tania,21,MSc,"Communication, Excel",2,Engineering,Drawing,"ICT, Math, English",nontech,Web Developer
+Hasan,20,HSC,"Leadership, Java, C++, Excel",0,AI,Gaming,"Math, ICT, Physics",nontech,Digital Marketer
+Sadia,32,BA,"Excel, Python",10,Data Science,Music,"Biology, Math",tech,Graphic Designer
+Rahim,29,MA,"Data Analysis, Communication, Python, C++",1,Finance,Gaming,"Biology, Physics",tech,Teacher
+Nusrat,26,MSc,"Public Speaking, Machine Learning, Java",5,Healthcare,Reading,"Biology, ICT",tech,Nurse
+Rafi,29,SSC,"Machine Learning, Public Speaking, C++, Leadership",9,Engineering,Music,"Economics, ICT",nontech,Nurse
+Rafi,32,MA,"Machine Learning, Communication, C++, Public Speaking, Excel",2,Teaching,Drawing,"Economics, Physics, Biology, Chemistry",nontech,Accountant
+Hasan,30,BA,"Leadership, Excel, Data Analysis, Java, Python",7,Data Science,Reading,"Bangla, ICT, Economics",tech,Teacher
+Tania,29,BA,"Python, Communication, Leadership, Public Speaking",1,Web Development,Drawing,"ICT, Economics, Biology, Bangla",nontech,Nurse
+Rafi,34,HSC,"Data Analysis, SQL, Python, Excel, Public Speaking",8,Marketing,Gaming,"ICT, Economics, Chemistry",tech,Accountant
+Nayeem,29,SSC,"Python, SQL, C++",10,AI,Traveling,"English, Chemistry",tech,Accountant
+Rafi,19,BA,"Python, Excel, Leadership, Machine Learning, C++",5,Healthcare,Traveling,"English, ICT, Chemistry",tech,Mechanical Engineer
+Hasan,19,BA,"Data Analysis, Python",5,Web Development,Photography,"Physics, English, Economics",tech,Nurse
+Imran,33,BA,"SQL, Machine Learning, Communication",3,Engineering,Writing,"ICT, Math, Biology, English",nontech,Web Developer
+Amina,31,SSC,"Machine Learning, Communication, SQL, Public Speaking, C++",10,Marketing,Drawing,"Math, ICT",tech,Web Developer
+Rahim,19,BA,"Communication, Java, Leadership, Machine Learning",8,Healthcare,Music,"Math, Chemistry, Bangla",nontech,Data Scientist
+Tania,28,SSC,"Leadership, Communication, Excel, Public Speaking, Python",5,Finance,Gaming,"Biology, Math",tech,AI Engineer
+Nayeem,32,Diploma,"Public Speaking, Machine Learning, Data Analysis, Leadership, C++",10,Web Development,Music,"Math, Physics, Bangla, ICT",tech,Graphic Designer
+Rahim,30,SSC,"Communication, C++, Data Analysis, Excel",5,Engineering,Gaming,"Bangla, Biology, Physics, Chemistry",nontech,AI Engineer
+Rafi,31,MSc,"C++, Data Analysis, Public Speaking, Python, SQL",4,Finance,Gaming,"ICT, English, Economics",tech,Teacher
+Rafi,30,SSC,"Excel, Public Speaking, C++, Leadership, Python",7,Engineering,Writing,"Chemistry, Biology, Math, Economics",tech,Business Analyst
+Tania,35,MSc,"Excel, Java",3,Teaching,Music,"Bangla, ICT, English",tech,Mechanical Engineer
+Hasan,18,BA,"C++, Public Speaking",7,Teaching,Gaming,"English, Economics",nontech,Data Scientist
+Nusrat,21,SSC,"SQL, C++",9,Healthcare,Photography,"Physics, Biology, Math",tech,Web Developer
+Karim,20,BA,"Public Speaking, Python, Java, C++",10,Engineering,Reading,"Chemistry, Physics, ICT, Bangla",nontech,Data Scientist
+Tania,18,HSC,"Public Speaking, Python, Java, C++",9,Finance,Drawing,"Bangla, Biology",tech,Teacher
+Karim,28,Diploma,"Leadership, C++",8,Healthcare,Drawing,"Math, Chemistry",tech,Web Developer
+Amina,23,MA,"C++, Leadership, SQL, Excel",6,Engineering,Drawing,"English, Economics, Biology, Bangla",tech,Web Developer
+Nayeem,32,BSc,"Communication, SQL, C++, Data Analysis, Python",7,AI,Writing,"Physics, ICT, Math, Chemistry",tech,Nurse
+Karim,29,Diploma,"C++, SQL, Java, Leadership, Python",8,Marketing,Traveling,"Economics, English, Bangla, Biology",nontech,Data Scientist
+Tania,21,HSC,"Machine Learning, Communication",7,Design,Music,"Biology, Economics, Chemistry, Bangla",tech,Accountant
+Hasan,19,SSC,"SQL, C++, Public Speaking, Communication",1,Data Science,Gaming,"Physics, Economics, ICT",nontech,Teacher
+Hasan,18,HSC,"Java, Communication, Public Speaking, Excel",4,Finance,Writing,"Bangla, Economics, English",nontech,Accountant
+Sadia,23,MA,"Machine Learning, C++, Leadership, Excel, Data Analysis",3,Marketing,Drawing,"Biology, Chemistry, Bangla",nontech,Graphic Designer
+Tania,35,BSc,"SQL, Python",8,Design,Traveling,"Chemistry, ICT, English",tech,Data Scientist
+Imran,18,BA,"Public Speaking, Machine Learning, Leadership, C++",8,Business,Photography,"English, Math",nontech,Business Analyst
+Imran,30,Diploma,"Excel, Communication, Data Analysis",5,Web Development,Music,"Math, Physics, Biology",nontech,Data Scientist
+Rafi,19,BA,"Data Analysis, C++",7,Marketing,Traveling,"Physics, Math",tech,Nurse
+Imran,31,BA,"Leadership, Communication",5,Design,Music,"Physics, Math, Chemistry, ICT",tech,Mechanical Engineer
+Nayeem,31,MA,"SQL, Machine Learning, Leadership, Public Speaking",6,Finance,Gaming,"Economics, ICT, English, Chemistry",tech,Business Analyst
+Hasan,32,SSC,"Java, Leadership",9,Data Science,Gaming,"Physics, Bangla, Math",nontech,AI Engineer
+Nusrat,34,MSc,"Java, SQL, Data Analysis, C++",1,Teaching,Drawing,"ICT, Bangla",tech,Graphic Designer
+Nusrat,28,HSC,"Excel, SQL",8,Finance,Music,"Chemistry, English",nontech,Nurse
+Hasan,30,BSc,"Communication, Leadership, Public Speaking, Java",3,Engineering,Reading,"Math, Biology",tech,Data Scientist
+Tania,32,BA,"Public Speaking, SQL",5,Web Development,Gaming,"English, Bangla, Chemistry",tech,Mechanical Engineer
+Nusrat,24,SSC,"Public Speaking, Machine Learning",4,Business,Music,"Math, Bangla",nontech,Web Developer
+Tania,33,MSc,"Public Speaking, C++, Machine Learning",4,Engineering,Music,"ICT, Bangla",tech,Mechanical Engineer
+Tania,26,MA,"C++, Communication",6,Data Science,Gaming,"English, Economics",nontech,Web Developer
+Karim,18,MA,"Python, Leadership, Java, SQL, Machine Learning",7,Web Development,Traveling,"Bangla, English, Physics, Biology",nontech,AI Engineer
+Rahim,25,HSC,"Data Analysis, SQL",2,Web Development,Reading,"Biology, ICT, Economics, Chemistry",nontech,Business Analyst
+Imran,27,HSC,"Communication, Leadership, Python",4,Engineering,Traveling,"Bangla, ICT, Physics, English",nontech,Graphic Designer
+Tania,27,BSc,"Public Speaking, C++",8,Healthcare,Gaming,"Physics, Chemistry",tech,Web Developer
+Rafi,33,HSC,"Public Speaking, Leadership",2,Data Science,Gaming,"Chemistry, Physics, Economics",tech,Mechanical Engineer
+Tania,33,HSC,"SQL, Machine Learning",8,Marketing,Reading,"Physics, Biology, ICT, Bangla",nontech,Web Developer
+Karim,21,BA,"Communication, Data Analysis, Excel, C++",9,Business,Music,"English, Biology, Chemistry",tech,Accountant
+Nusrat,18,SSC,"Excel, C++, Public Speaking, Machine Learning, SQL",1,Business,Writing,"ICT, Biology, English, Physics",nontech,Teacher
+Karim,26,BA,"Data Analysis, Java, SQL, C++, Public Speaking",0,Design,Reading,"Bangla, ICT",tech,Digital Marketer
+Hasan,33,BSc,"Data Analysis, Excel",3,Marketing,Drawing,"Physics, ICT",nontech,Data Scientist
+Hasan,22,SSC,"Leadership, Machine Learning, C++, Data Analysis, Communication",2,Teaching,Traveling,"Physics, ICT",nontech,AI Engineer
+Tania,33,Diploma,"Data Analysis, Excel, C++, Leadership, SQL",1,Healthcare,Gaming,"Economics, Biology, ICT",nontech,Digital Marketer
+Nayeem,30,MSc,"Public Speaking, Data Analysis, Leadership, Python, Machine Learning",10,Data Science,Gaming,"English, Math, ICT",nontech,Data Scientist
+Hasan,31,Diploma,"Machine Learning, Python, Excel, SQL, Leadership",10,Finance,Drawing,"Economics, Physics, Math",nontech,Business Analyst
+Sadia,22,BA,"Java, Excel",6,Web Development,Writing,"Chemistry, English",tech,Data Scientist
+Tania,28,MA,"Excel, Python, Data Analysis, Machine Learning",6,Marketing,Traveling,"English, Chemistry",tech,Nurse
+Rahim,21,HSC,"Public Speaking, Python",8,Business,Traveling,"ICT, Chemistry, English",tech,AI Engineer
+Rafi,34,SSC,"C++, Leadership",4,Finance,Music,"Math, English",tech,Digital Marketer
+Rahim,30,BA,"Leadership, Data Analysis, Communication",1,Data Science,Photography,"ICT, Math",tech,Web Developer
+Hasan,26,BA,"Python, Communication, Machine Learning",7,Marketing,Drawing,"Bangla, Economics, Biology, Physics",tech,AI Engineer
+Rafi,19,HSC,"Communication, SQL, C++",6,Web Development,Traveling,"Biology, Math, Chemistry",nontech,Graphic Designer
+Imran,21,BSc,"Public Speaking, SQL, Machine Learning, Leadership, Excel",4,Teaching,Drawing,"Bangla, ICT, Biology, Economics",tech,Graphic Designer
+Tania,26,HSC,"Excel, Machine Learning, Java, Public Speaking",2,Design,Photography,"Math, Chemistry",nontech,Digital Marketer
+Hasan,19,SSC,"Leadership, Public Speaking, Python",8,Design,Photography,"Bangla, Chemistry, ICT",nontech,Accountant
+Imran,23,Diploma,"Java, Leadership, Excel, Machine Learning",5,Data Science,Music,"Bangla, Economics, Physics, ICT",tech,Digital Marketer
+Karim,33,MA,"Java, Public Speaking, Excel, Data Analysis, Communication",4,Web Development,Writing,"Bangla, Chemistry",nontech,Mechanical Engineer
+Amina,19,BSc,"SQL, Machine Learning",8,Design,Reading,"Math, Economics, Bangla",tech,Mechanical Engineer
+Rafi,24,BSc,"Communication, Machine Learning, Public Speaking, SQL",10,Healthcare,Writing,"Physics, English, ICT, Bangla",nontech,Data Scientist
+Imran,24,SSC,"Python, Java, Leadership, SQL, Public Speaking",5,Healthcare,Drawing,"Physics, Economics, Math, English",tech,Digital Marketer
+Nayeem,29,Diploma,"Java, Machine Learning, Python",6,AI,Drawing,"ICT, English, Math",nontech,Graphic Designer
+Nayeem,33,BSc,"Machine Learning, SQL, Python, C++",4,AI,Photography,"Physics, Chemistry, Math, Economics",tech,Teacher
+Nayeem,25,BA,"Excel, Machine Learning, Python, Data Analysis",4,AI,Gaming,"Chemistry, Economics, ICT, Math",tech,Nurse
+Hasan,32,MSc,"SQL, Python, Java, Public Speaking",1,Teaching,Gaming,"Chemistry, ICT",tech,Mechanical Engineer
+Rafi,24,MA,"Excel, Machine Learning, Data Analysis, Java",4,Finance,Gaming,"Chemistry, Economics, Physics, ICT",nontech,Data Scientist
+Tania,26,MSc,"Communication, Data Analysis",2,Finance,Photography,"Chemistry, English, Biology, Bangla",tech,Mechanical Engineer
+Karim,20,MA,"Communication, C++",0,Marketing,Traveling,"Biology, Bangla, English",nontech,Accountant
+Tania,24,BA,"Python, Java, Public Speaking, C++, Communication",6,AI,Traveling,"Bangla, English",tech,Mechanical Engineer
+Rahim,18,MA,"C++, Python",10,Healthcare,Music,"Biology, Chemistry",tech,Graphic Designer
+Sadia,34,HSC,"Leadership, Java, Public Speaking",8,Healthcare,Reading,"English, Chemistry, Math, Bangla",nontech,Business Analyst
+Rahim,22,MSc,"Data Analysis, Excel, C++",10,Finance,Reading,"ICT, English, Economics",nontech,Digital Marketer
+Hasan,23,HSC,"Machine Learning, Excel, Data Analysis",0,Healthcare,Writing,"Bangla, Economics, Physics, Biology",nontech,Business Analyst
+Tania,20,HSC,"Python, Excel, Public Speaking",10,Healthcare,Drawing,"Physics, Math, Economics",tech,Teacher
+Tania,25,BSc,"Communication, Machine Learning, C++",3,Marketing,Writing,"Economics, Physics, English, Chemistry",tech,Digital Marketer
+Nayeem,28,BSc,"Machine Learning, SQL, Communication",7,Data Science,Reading,"ICT, Bangla, Economics, Biology",tech,Teacher
+Nayeem,35,BSc,"Data Analysis, Python, Public Speaking, SQL",7,AI,Traveling,"Bangla, Math, Economics, Biology",tech,Graphic Designer
+Rafi,26,BSc,"C++, SQL, Public Speaking",8,Marketing,Traveling,"Bangla, Biology",nontech,Web Developer
+Sadia,33,MSc,"Python, Communication",0,Business,Music,"Math, Physics",nontech,Graphic Designer
+Rahim,19,MA,"Machine Learning, Data Analysis, Leadership, Public Speaking",0,Design,Writing,"English, Math, Physics, Biology",tech,Graphic Designer
+Hasan,25,SSC,"SQL, C++, Communication",4,Healthcare,Photography,"Physics, English, Economics, Bangla",nontech,Teacher
+Nusrat,25,SSC,"Python, Data Analysis, Communication",5,Teaching,Reading,"English, Chemistry, Physics, Economics",tech,AI Engineer
+Amina,27,Diploma,"SQL, Java, Leadership, Python, C++",4,Design,Gaming,"ICT, Biology, Chemistry",nontech,AI Engineer
+Nayeem,24,BA,"Python, Java",9,AI,Photography,"Physics, Biology, Math, Bangla",tech,Nurse
+Rafi,21,HSC,"Excel, Python, C++, Public Speaking",8,Data Science,Drawing,"Economics, Biology, Bangla",tech,Teacher
+Rahim,19,SSC,"Machine Learning, C++",9,Design,Reading,"ICT, Math, Physics, Chemistry",tech,Teacher
+Amina,27,BA,"Public Speaking, Leadership, C++, SQL",0,Marketing,Writing,"Math, English",tech,Accountant
+Tania,30,BSc,"Excel, Python, Communication",4,Teaching,Music,"Economics, Biology, ICT",tech,Web Developer
+Nusrat,21,SSC,"Communication, Machine Learning, Excel",8,Teaching,Photography,"Economics, English",tech,AI Engineer
+Nusrat,29,BSc,"Public Speaking, C++, Java, Machine Learning",7,Marketing,Music,"Biology, Physics, English, Economics",nontech,Business Analyst
+Amina,29,MSc,"Java, Data Analysis",5,Teaching,Traveling,"Economics, ICT, Biology, Bangla",nontech,Teacher
+Sadia,25,Diploma,"Excel, Communication, SQL",6,Engineering,Gaming,"Economics, Physics, Math",nontech,Mechanical Engineer
+Karim,28,BA,"Excel, Data Analysis, Machine Learning, Java, SQL",10,Web Development,Writing,"Math, Bangla",tech,Digital Marketer
+Sadia,26,HSC,"Excel, Machine Learning, Communication, Data Analysis",3,Engineering,Music,"ICT, Physics, Math",tech,Business Analyst
+Imran,34,BA,"Excel, Java, Machine Learning, Python",9,Finance,Traveling,"Physics, English",nontech,AI Engineer
+Sadia,35,Diploma,"Machine Learning, C++, Communication, Public Speaking",0,Data Science,Gaming,"Chemistry, Math, Biology, Physics",tech,Nurse
+Sadia,34,BA,"Excel, SQL",2,Design,Reading,"Chemistry, Physics, Math, ICT",nontech,AI Engineer
+Tania,20,MSc,"Leadership, Data Analysis, Python, Excel",3,Business,Writing,"Physics, Bangla",tech,Nurse
+Sadia,32,MSc,"Machine Learning, Communication, Python, C++, Java",4,Healthcare,Music,"Math, Bangla, ICT, Chemistry",nontech,Web Developer
+Karim,19,MSc,"SQL, Data Analysis",8,Data Science,Gaming,"Physics, Economics, Bangla",tech,Graphic Designer
+Amina,25,MSc,"C++, Java, Excel",2,Marketing,Traveling,"Physics, Economics",tech,Digital Marketer
+Sadia,28,MSc,"Java, Public Speaking, Communication, Leadership",6,Engineering,Photography,"Physics, Biology, Economics",nontech,Digital Marketer
+Tania,22,Diploma,"Machine Learning, Excel, Leadership, Java",9,Data Science,Gaming,"Economics, ICT, Math",tech,Data Scientist
+Hasan,23,Diploma,"SQL, C++, Data Analysis",8,Web Development,Gaming,"Biology, Physics, ICT, Bangla",nontech,Data Scientist
+Nusrat,28,SSC,"Python, Data Analysis, C++, Excel, Public Speaking",5,Healthcare,Reading,"Chemistry, Economics, Biology",tech,Digital Marketer
+Imran,30,HSC,"Leadership, Excel, Data Analysis, Java",3,Teaching,Music,"Biology, Economics",tech,AI Engineer
+Nusrat,22,BA,"Machine Learning, SQL, C++, Leadership, Communication",2,Design,Gaming,"ICT, Math",nontech,Data Scientist
+Hasan,29,SSC,"Excel, Python, Machine Learning",6,Healthcare,Gaming,"Biology, Physics",nontech,Data Scientist
+Amina,28,BSc,"Machine Learning, C++, SQL",5,Business,Photography,"Chemistry, Math, Physics, Economics",nontech,Business Analyst
+Imran,18,SSC,"Public Speaking, Java, Machine Learning",2,Marketing,Traveling,"ICT, Bangla, Economics",nontech,Nurse
+Sadia,23,SSC,"C++, Public Speaking",4,Engineering,Writing,"Math, ICT",tech,Mechanical Engineer
+Karim,28,MA,"Machine Learning, SQL",4,Design,Reading,"Biology, Math, English, Chemistry",tech,Graphic Designer
+Imran,28,MA,"Excel, Python, Public Speaking, C++",6,Web Development,Traveling,"ICT, English, Math",nontech,Graphic Designer
+Nusrat,34,SSC,"Excel, Leadership, SQL, Java, Public Speaking",5,Design,Photography,"Biology, Economics, English",tech,AI Engineer
+Nayeem,21,BA,"Public Speaking, Leadership, Communication, C++, Excel",0,Web Development,Drawing,"Math, Biology",tech,Digital Marketer
+Tania,28,MA,"Python, Machine Learning, Excel, Java",4,Healthcare,Music,"Physics, ICT, Bangla",tech,Teacher
+Rafi,23,BA,"SQL, Excel, Machine Learning, Public Speaking",2,Healthcare,Reading,"Bangla, Physics, Math, Economics",nontech,Digital Marketer
+Sadia,25,SSC,"Communication, C++, Java",3,AI,Reading,"Biology, Economics, Physics",tech,Nurse
+Rahim,32,MSc,"Public Speaking, Excel, Communication, Java",4,Web Development,Writing,"Economics, Chemistry",nontech,Digital Marketer
+Sadia,29,BSc,"Data Analysis, Excel",8,AI,Photography,"Physics, Chemistry, Economics, English",tech,Teacher
+Rahim,27,Diploma,"SQL, Public Speaking, Data Analysis, Machine Learning",8,Engineering,Reading,"Math, Biology, ICT, Chemistry",nontech,Graphic Designer
+Tania,34,MA,"Communication, SQL",5,Business,Music,"Bangla, ICT, Economics, Biology",nontech,Web Developer
+Nusrat,32,Diploma,"Java, Machine Learning, Leadership, SQL, Python",5,Design,Music,"Chemistry, English, Math, Biology",nontech,Graphic Designer
+Rafi,27,HSC,"Leadership, C++",6,Data Science,Drawing,"Bangla, Physics",tech,Nurse
+Hasan,22,BA,"Leadership, Machine Learning, Java, Python",4,Design,Music,"Bangla, English, ICT, Economics",tech,Graphic Designer
+Hasan,25,Diploma,"SQL, Communication, Python, Data Analysis, C++",9,Web Development,Photography,"Chemistry, Math, ICT",tech,Mechanical Engineer
+Imran,18,HSC,"Communication, Leadership, Java, Machine Learning",1,Business,Drawing,"English, Bangla",tech,Graphic Designer
+Imran,18,MA,"Communication, SQL",5,Data Science,Traveling,"English, Chemistry, ICT",nontech,Web Developer
+Imran,27,Diploma,"Excel, Leadership, Python, Communication, Java",7,Marketing,Music,"ICT, Physics, Economics",tech,Mechanical Engineer
+Sadia,22,HSC,"SQL, Leadership, Python",6,Healthcare,Traveling,"ICT, English",tech,Web Developer
+Karim,35,MSc,"Excel, SQL, Leadership",4,Engineering,Gaming,"Chemistry, Physics, Economics",nontech,Web Developer
+Imran,29,BSc,"Machine Learning, C++, SQL, Leadership",0,Business,Photography,"Economics, Bangla, English, Biology",tech,Graphic Designer
+Imran,25,MA,"Data Analysis, Communication, Public Speaking, SQL",8,Design,Gaming,"Biology, ICT, Chemistry, Economics",tech,Web Developer
+Amina,33,SSC,"Communication, Java, Data Analysis, Excel",1,Teaching,Gaming,"Bangla, ICT, Physics, Biology",tech,Business Analyst
+Nusrat,34,HSC,"Communication, Java, Public Speaking",7,Data Science,Reading,"ICT, Bangla, Biology, English",nontech,Business Analyst
+Nayeem,31,BSc,"Data Analysis, Python, SQL",9,Business,Gaming,"Economics, English",nontech,Data Scientist
+Rahim,25,MSc,"Communication, Python, SQL, Machine Learning",7,Engineering,Drawing,"English, Chemistry",nontech,Digital Marketer
+Hasan,32,MSc,"SQL, Java, Communication, Python",9,Finance,Drawing,"Physics, Chemistry, Biology",tech,Digital Marketer
+Hasan,28,SSC,"Java, Data Analysis",2,Data Science,Music,"Chemistry, Bangla",nontech,Digital Marketer
+Imran,24,MSc,"Leadership, Machine Learning, Public Speaking",2,Healthcare,Photography,"Bangla, ICT, English, Chemistry",tech,Data Scientist
+Tania,29,BSc,"Communication, Python, Leadership, Java",4,Data Science,Traveling,"Physics, English, ICT",nontech,Business Analyst
+Rafi,33,MSc,"Machine Learning, C++, Communication",6,Business,Music,"Physics, Economics, ICT, English",tech,AI Engineer
+Nusrat,29,MSc,"SQL, Machine Learning",4,Teaching,Music,"Chemistry, English",nontech,AI Engineer
+Sadia,28,Diploma,"SQL, Communication, Machine Learning, Java, Python",3,Marketing,Reading,"Biology, English, Economics",tech,Mechanical Engineer
+Rafi,24,MA,"Machine Learning, Java, Python, Public Speaking",2,Marketing,Writing,"Physics, Bangla, English, Math",tech,Digital Marketer
+Rafi,35,MA,"SQL, Leadership, Data Analysis, Machine Learning",6,AI,Traveling,"English, Bangla, Biology, ICT",tech,Nurse
+Rafi,32,Diploma,"Python, Machine Learning, C++, Public Speaking, Excel",8,Marketing,Drawing,"Biology, ICT, Economics",nontech,Graphic Designer
+Rafi,30,Diploma,"Machine Learning, Communication, Leadership, Java",2,Marketing,Reading,"Chemistry, Biology, Physics",tech,Digital Marketer
+Tania,28,BSc,"C++, Leadership, Communication, Machine Learning",10,Design,Reading,"English, Bangla, Chemistry, ICT",nontech,Digital Marketer
+Sadia,20,Diploma,"Data Analysis, Communication, SQL, C++",3,Web Development,Drawing,"Physics, English, Math",tech,Digital Marketer
+Amina,24,SSC,"Python, SQL, Machine Learning, Data Analysis, Communication",6,AI,Drawing,"English, Bangla",nontech,Nurse
+Amina,33,BSc,"Public Speaking, Communication, Leadership, Python",8,Healthcare,Gaming,"ICT, Economics, English, Biology",nontech,Nurse
+Tania,26,BSc,"Data Analysis, Communication, Python, Leadership",9,AI,Reading,"English, Economics",nontech,Graphic Designer
+Nusrat,25,HSC,"Machine Learning, SQL",6,Marketing,Photography,"Physics, Bangla",nontech,Web Developer
+Imran,25,MSc,"Machine Learning, Java",8,Marketing,Music,"Chemistry, Physics",tech,Graphic Designer
+Rahim,33,MA,"Leadership, Data Analysis, C++, Python",0,Teaching,Writing,"Bangla, ICT, Physics, English",tech,AI Engineer
+Sadia,26,MSc,"SQL, C++, Java, Python, Public Speaking",9,Healthcare,Writing,"English, Physics, Biology",tech,Digital Marketer
+Nusrat,26,SSC,"SQL, Leadership, C++",8,Business,Writing,"English, Chemistry, Bangla, ICT",nontech,Nurse
+Sadia,33,MA,"Communication, Data Analysis, Machine Learning, Leadership",3,Marketing,Drawing,"Bangla, ICT, English",tech,Mechanical Engineer
+Imran,35,BSc,"Leadership, Excel, Public Speaking",6,Finance,Photography,"English, ICT",nontech,Accountant
+Nusrat,26,MA,"C++, Machine Learning, Leadership, Data Analysis, Java",7,Business,Traveling,"English, ICT, Physics, Math",tech,Business Analyst
+Rahim,34,MA,"Java, SQL",4,AI,Traveling,"Bangla, Economics, Physics, ICT",nontech,Digital Marketer
+Tania,18,SSC,"Python, Java, Leadership, C++, Public Speaking",1,Engineering,Photography,"English, ICT, Math",nontech,Digital Marketer
+Nayeem,28,HSC,"Public Speaking, C++",9,Data Science,Writing,"Math, Physics",nontech,Digital Marketer
+Rafi,27,SSC,"Excel, Java, C++",10,Teaching,Music,"Chemistry, English",nontech,Digital Marketer
+Nusrat,28,BSc,"SQL, Communication, Data Analysis, Machine Learning",9,Teaching,Gaming,"Bangla, Physics, Biology",tech,Web Developer
+Amina,29,MSc,"Python, Public Speaking, SQL, Java, Excel",1,Teaching,Writing,"Physics, Chemistry, Math",nontech,AI Engineer
+Amina,19,BSc,"Python, Machine Learning, SQL, Data Analysis",2,Healthcare,Writing,"English, ICT",tech,Teacher
+Karim,27,MA,"Communication, Machine Learning, SQL, C++, Excel",10,Teaching,Reading,"Math, Physics, English, Chemistry",tech,Data Scientist
+Nayeem,20,MSc,"Data Analysis, SQL, Python, Communication, Machine Learning",3,AI,Photography,"Economics, Chemistry, Math",nontech,AI Engineer
+Nusrat,18,HSC,"Public Speaking, Machine Learning, Python",1,AI,Traveling,"Biology, English, ICT, Math",tech,Data Scientist
+Tania,25,MSc,"Public Speaking, Excel",7,Finance,Reading,"English, Bangla, Biology, Math",nontech,Business Analyst
+Rahim,35,SSC,"Java, Machine Learning, Data Analysis",7,Web Development,Traveling,"English, ICT, Chemistry, Bangla",nontech,AI Engineer
+Sadia,24,MA,"Machine Learning, Communication, Java, SQL",1,Web Development,Gaming,"Math, Bangla, Biology, Physics",nontech,Data Scientist
+Imran,27,MSc,"Java, Public Speaking, C++, Excel, Data Analysis",6,Business,Traveling,"Physics, English, Chemistry",nontech,Accountant
+Rahim,25,MA,"C++, Java, Data Analysis, Communication, Leadership",9,Design,Gaming,"Biology, Bangla, Economics",tech,Digital Marketer
+Imran,27,MSc,"SQL, Communication, Data Analysis, C++",2,Engineering,Traveling,"Bangla, English, ICT",tech,AI Engineer
+Tania,24,BSc,"Python, Java",7,Data Science,Drawing,"Physics, ICT, Bangla",nontech,Data Scientist
+Sadia,18,HSC,"Python, Java",9,Finance,Writing,"Chemistry, Physics",nontech,Web Developer
+Sadia,24,HSC,"Public Speaking, C++, Leadership, Python, Machine Learning",7,Marketing,Photography,"Biology, Chemistry, Math",tech,Nurse
+Karim,19,BSc,"SQL, Public Speaking, C++, Leadership, Communication",5,Web Development,Music,"Math, Biology",nontech,Business Analyst
+Nayeem,24,MA,"Public Speaking, Java",3,AI,Traveling,"ICT, Chemistry",tech,Teacher
+Rahim,31,SSC,"Excel, C++, Java, Data Analysis",4,Design,Writing,"Chemistry, Biology, Bangla",nontech,Digital Marketer
+Rahim,26,HSC,"Public Speaking, Machine Learning, Python",5,Data Science,Gaming,"Economics, ICT",tech,Mechanical Engineer
+Tania,35,Diploma,"Java, SQL, Data Analysis",2,Data Science,Reading,"Biology, Physics",tech,Data Scientist
+Rahim,27,HSC,"Communication, Excel, Java",8,Business,Writing,"Bangla, Physics, English, Biology",tech,AI Engineer
+Tania,21,BSc,"Python, SQL",7,Teaching,Gaming,"Bangla, Biology",tech,Data Scientist
+Hasan,24,HSC,"Communication, Machine Learning, Excel",2,Design,Writing,"Biology, Economics, ICT, English",tech,Teacher
+Nayeem,25,MSc,"Java, SQL",8,AI,Music,"Economics, Chemistry",tech,Teacher
+Amina,29,BA,"Machine Learning, Python, Java, Leadership, Communication",0,Marketing,Gaming,"ICT, Math",tech,Graphic Designer
+Rahim,25,HSC,"Machine Learning, Java, Excel, Leadership",8,Healthcare,Photography,"Chemistry, Physics, English",nontech,Mechanical Engineer
