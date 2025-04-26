@@ -2,9 +2,14 @@
 
 # Smart Career Advisor 🎯
 
-<p align="right">
-  <img src="image.png" alt="Smart Career Advisor" width="400"/>
+## Project Screenshot
+
+<p align="center">
+  <img src="image/image.png" alt="Smart Career Advisor Result Page" width="700"/>
 </p>
+
+
+
 
 An intelligent web application that predicts your most suitable career paths based on your skills, education, experience, and interests.  
 Built using **Streamlit** and **Machine Learning**.
