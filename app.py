@@ -1,7 +1,7 @@
 import streamlit as st
 import pickle
 import numpy as np
-
+import re
 
 
 # end open ai code
@@ -183,14 +183,179 @@ with col2:
 # 🤖 RIGHT COLUMN - ChatBot Placeholder
 # 🤖 RIGHT COLUMN - ChatBot Interface (Simple placeholder)
 # 🤖 RIGHT COLUMN - ChatBot Interface (Simple placeholder)
-# -----------------------------------------
 with col3:
-    st.header("🤖 Career ChatBot (Demo)")
+    st.markdown("<h2 style='text-align: center; color: #4CAF50;'>🤖 Career ChatBot (Demo)</h2>", unsafe_allow_html=True)
     
+    # Additional styling for the chatbot section
+    st.markdown("""
+        <style>
+            .chat-box {
+                padding: 20px;
+                border-radius: 10px;
+                background-color: #f1f1f1;
+                box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            }
+            .user-input {
+                padding: 10px;
+                border: 1px solid #ddd;
+                border-radius: 5px;
+                width: 100%;
+                font-size: 16px;
+                margin-bottom: 10px;
+            }
+            .bot-response {
+                background-color: #dcdcdc;
+                border-radius: 5px;
+                padding: 10px;
+                margin-top: 10px;
+                font-weight: bold;
+            }
+            .ask-button {
+                background-color: #4CAF50;
+                color: white;
+                border-radius: 5px;
+                padding: 10px 20px;
+                font-size: 16px;
+                border: none;
+                cursor: pointer;
+                width: 100%;
+            }
+            .ask-button:hover {
+                background-color: #45a049;
+            }
+        </style>
+    """, unsafe_allow_html=True)
+
     st.write("This is a demo chatbot interface. Ask something below:")
-    user_query = st.text_input("You:", key="chat")
-    
+
+    # Input text field with customized style
+    user_query = st.text_input("You:", key="chat", placeholder="Ask your career-related query here...", label_visibility="collapsed")
+
     if user_query:
-        st.write("Bot: Sorry! I am just a demo for now. More features coming soon 😉")
+        # Styled response area
+        st.markdown(f"""<div class="bot-response">Bot: Sorry! I am just a demo for now. More features coming soon 😉</div>""", unsafe_allow_html=True)
+
+    # Ask button to submit query
+    if st.button("💬 Ask", key="chat_button", help="Submit your query to ChatBot"):
+        st.markdown(f"""<div class="bot-response">Bot: Sorry! I am just a demo for now. More features coming soon 😉</div>""", unsafe_allow_html=True)
+
+
+# -----------------------------------------
+# Resume Recommendation System - Below Layout
+# -----------------------------------------
+st.markdown("---")
+resume_model = pickle.load(open('F:\\PROJECT_PIPELINE_MLOPS\\SMART_CARRER_ADVISOR\\models\\model.pkl', 'rb'))
+resume_tfidf = pickle.load(open('F:\\PROJECT_PIPELINE_MLOPS\\SMART_CARRER_ADVISOR\\models\\tfidf.pkl', 'rb'))
+resume_label_encoder = pickle.load(open('F:\\PROJECT_PIPELINE_MLOPS\\SMART_CARRER_ADVISOR\\models\\label_encoders.pkl', 'rb'))
+
+# Text cleaning function
+def clean_text(text):
+    text = re.sub(r'[^a-zA-Z]', ' ', text)  # Remove non-alphabetic characters
+    text = text.lower()  # Lowercase
+    text = re.sub(r'\s+', ' ', text)  # Remove multiple spaces
+    text = text.strip()  # Trim spaces
+    return text
+# Resume Input
+# -----------------------------------------
+# Resume Recommendation System - Below Layout
+# -----------------------------------------
+st.markdown("<h2 style='text-align: center; color: #FF6347;'>Resume Recommendation System</h2>", unsafe_allow_html=True)
+
+# Styling for the section
+st.markdown("""
+    <style>
+        .resume-section {
+            padding: 30px;
+            border-radius: 10px;
+            background-color: #f9f9f9;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+            margin-top: 30px;
+        }
+        .section-header {
+            font-size: 24px;
+            color: #2d2d2d;
+            text-align: center;
+            font-weight: bold;
+        }
+        .resume-textarea {
+            width: 100%;
+            height: 300px;
+            padding: 10px;
+            border-radius: 5px;
+            border: 1px solid #ddd;
+            font-size: 16px;
+            margin-top: 20px;
+        }
+        .predict-btn {
+            background-color: #FF6347;
+            color: white;
+            border-radius: 5px;
+            padding: 12px 20px;
+            font-size: 16px;
+            border: none;
+            cursor: pointer;
+            width: 100%;
+        }
+        .predict-btn:hover {
+            background-color: #e53d26;
+        }
+    </style>
+""", unsafe_allow_html=True)
+
+# Text Input for Resume
+user_resume = st.text_area("📝 Paste your Resume Text below (200–300 words):", height=300, key="resume_input", placeholder="Write or paste your resume here...")
+
+# Predict Button
+predict_button = st.button("🔍 Predict Career Path", key="predict_button", help="Click to predict the career path based on your resume")
+
+# Display the section with resume input
+# Initialize prediction_decoded outside the container to avoid reference error
+# Initialize prediction_decoded outside the container to avoid reference error
+prediction_decoded = None
+
+with st.container():
+    st.markdown("<div class='resume-section'>", unsafe_allow_html=True)
+
+    # Predict button logic
+    if predict_button:
+        if user_resume.strip() != "":
+            # Clean the input text
+            cleaned_resume = clean_text(user_resume)
+
+            # Transform the text using loaded TFIDF
+            resume_text_transformed = resume_tfidf.transform([cleaned_resume])
+
+            # Predict career path
+            prediction_encoded = resume_model.predict(resume_text_transformed)[0]
+
+            # Decode the prediction
+            prediction_decoded = resume_label_encoder.inverse_transform([prediction_encoded])[0]
+
+            # Display result with enhanced styles
+            st.success(f"🎯 Recommended Career Path: **{prediction_decoded}**", icon="✅")
+        else:
+            st.warning("⚠️ Please write your resume summary before predicting.", icon="⚠️")
+
+    st.markdown("</div>", unsafe_allow_html=True)
+
+# Ensure the variable is only used when prediction_decoded is available
+if prediction_decoded:
+    # Display the result with larger font size, color, and additional instructions
+    st.markdown(f"""
+        <div style="background-color: #333; padding: 20px; border-radius: 10px;">
+            <h2 style='color: #FF6347; font-size: 36px; text-align: center;'>🎯 This career path is the best for you to succeed!</h2>
+            <p style='font-size: 24px; text-align: center; color: #FFFAFA;'>According to your resume, <strong style="font-size: 30px; color: #FFD700;">{prediction_decoded}</strong> is the best career path.</p>
+            <p style='font-size: 20px; text-align: center; color: #4CAF50;'>Now, here are some important tips to prepare for this career:</p>
+            <ul style='font-size: 18px; color: #FFFAFA;'>
+                <li>1. Start learning relevant skills and tools.</li>
+                <li>2. Consider enrolling in professional courses or following online tutorials.</li>
+                <li>3. Gain work experience by working on projects.</li>
+                <li>4. Stay updated with industry trends and new technologies.</li>
+                <li>5. Focus on self-development and learn from mentors in the field.</li>
+            </ul>
+            <p style='font-size: 18px; text-align: center; color: #777;'>This is general advice, but you can create new plans based on your journey.</p>
+        </div>
+    """, unsafe_allow_html=True)
+
 
 

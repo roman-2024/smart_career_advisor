@@ -80,6 +80,54 @@ Choosing a career is one of the most crucial decisions in life — yet many stud
 - Analyze **real-time job market trends** for smarter predictions.
 
 ---
+## Resume Recommendation System
+Overview:
+The Resume Recommendation System is designed to help individuals optimize their resumes and match them to relevant job opportunities using machine learning techniques. This system processes user resumes, cleans the text, and provides recommendations based on the resume content, including skills, experience, and job titles.
+
+### Key Features:
+Text Cleaning:
+
+The system performs data preprocessing to clean the text by removing stop words, special characters, and irrelevant information.
+
+It also handles missing values, ensuring that the resume data is ready for model training.
+
+Feature Engineering:
+
+Level Encoding: Categorical features, such as job titles and industries, are encoded using Level Encoding to convert them into numerical values, making them suitable for machine learning models.
+
+TF-IDF Vectorization: The TF-IDF (Term Frequency-Inverse Document Frequency) vectorizer is used to transform the text data into numerical vectors that capture the importance of words in relation to the entire dataset.
+
+Random Forest Classifier:
+
+The system uses the Random Forest Classifier model to predict and recommend suitable job positions based on the user's resume data.
+
+Random Forest is an ensemble learning method that uses multiple decision trees to improve accuracy and reduce overfitting, ensuring more reliable recommendations.
+
+## Resume Matching and Recommendations:
+
+The trained model matches the user’s resume to various job roles and suggests improvements to increase the chances of landing a job in the desired field.
+
+The system identifies key skills, qualifications, and experience required for specific job roles and recommends actions such as adding or updating certain skills or experiences in the resume.
+
+### Technologies Used:
+Python
+
+Pandas (for data manipulation)
+
+Scikit-learn (for machine learning models and text preprocessing)
+
+TF-IDF Vectorizer (for text feature extraction)
+
+Random Forest Classifier (for job recommendation predictions)
+
+How It Works:
+Input: Users upload their resumes in a readable format (e.g., text or PDF).
+
+Preprocessing: The system cleans the text data, removes unnecessary characters, and performs Level Encoding for categorical features and TF-IDF for text features.
+
+Model Training: A Random Forest Classifier is trained on a Kaggle dataset containing sample job listings and resume features. The model learns to correlate resume features with job roles.
+
+## Recommendation: Once the model is trained, users can submit their resumes, and the system will recommend job positions based on the content of the resumes. The model will also provide feedback on how to improve the resume for better alignment with industry requirements.
 
 ## 🏆 Impact
 
